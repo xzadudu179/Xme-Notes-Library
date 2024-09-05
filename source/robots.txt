@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /2024/09/03/World/

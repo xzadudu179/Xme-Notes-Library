@@ -79,6 +79,23 @@ comment: true
 <!-- start content -->
 <h4>
     <div class="circsmall"></div>
+    09-05
+</h4>
+<span class="content">
+
+#### 一些调整
+
+-   将主题改为自己 Fork 的主题方便我魔改（？
+-   绑定了域名 `blog.xzadudu179.top`
+-   增加了`关于我`页面的内容
+-   让我的 markdown 链接变成彩色的了（？ （[效果预览](https://blog.xzadudu179.top)）
+
+</span>
+<!-- end content -->
+
+<!-- start content -->
+<h4>
+    <div class="circsmall"></div>
     09-04
 </h4>
 <span class="content">
@@ -96,7 +113,6 @@ comment: true
 -   将**关于**改为**关于我**且从下拉列表改为导航栏项, 并且将**友链**单独作为了一项
 
 </span>
-
 <!-- end content -->
 
 <!-- startcontent -->
@@ -113,7 +129,6 @@ comment: true
 有了最基本的功能和一篇测试文章~
 
 </span>
-
 <!-- end content -->
 
 <h2 class="year"><div class="circbig"></div>更早之前...</h2>
@@ -132,10 +147,11 @@ comment: true
 
 一直到大概 24 年 9 月份的时候看到朋友 ([invert-viewer](https://invert-viewer.github.io/)) 也搭了一个博客，于是问了问他是怎么做的，这才接触到 [Hexo](https://hexo.io/zh-cn/docs/) 和 [Github Pages](https://pages.github.com/)
 
-虽然我以后应该不会用 Github Pages? 因为访问似乎比较慢，不过得等我有钱了再说 hhh
+虽然我以后应该不会用 Github Pages？ 因为访问似乎比较慢，不过得等我有钱了再说 hhh
+
+[↑ 让我们回到现在吧？↑](#)
 
 </span>
-
 <!-- end content -->
 
 </div>

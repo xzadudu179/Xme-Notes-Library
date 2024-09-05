@@ -1,5 +1,5 @@
 // ========================================================================================
-//                                   REDEFINE THEME VARIABLE                                 
+//                                   REDEFINE THEME VARIABLE
 // ========================================================================================
 
 
@@ -178,6 +178,10 @@ $home-banner-text-color = convert(hexo-config('home_banner.text_color.light'))
 $home-banner-icons-container-border-color = rgba(255, 255, 255, 0.35)
 $home-banner-icons-container-background-color = rgba(255, 255, 255, 0.3)
 
+// 个人修改
+// link color
+$link-color = hexo-config('colors.primary_link') == true ? $primary-color : --default-text-color
+
 
 // ========================================================================================
 //                                      DARK MODE
@@ -203,7 +207,7 @@ $dark-shadow-color-1 = rgba(255, 255, 255, 0.08)
 $dark-shadow-color-2 = rgba(255, 255, 255, 0.05)
 $dark-shadow-hover-color = rgba(69, 69, 69, 0.28)
 $dark-scrollbar-color = #898989
-$dark-scrollbar-color-hover = #A1A1A1;  
+$dark-scrollbar-color-hover = #A1A1A1;
 $dark-scroll-bar-bg-color = lighten($dark-background-color, 5%)
 $dark-link-color = lighten($dark-default-text-color, 10%)
 $dark-copyright-info-color = darken($copyright-info-color, 20%)
@@ -224,6 +228,10 @@ $dark-note-type-title-bg = #4e3a1e
 $home-banner-text-color-dark = convert(hexo-config('home_banner.text_color.dark'))
 $home-banner-icons-container-border-color-dark = rgba(197, 197, 197, 0.35)
 $home-banner-icons-container-background-color-dark = rgba(197, 197, 197, 0.3)
+
+// 个人修改
+// link color
+$dark-link-color = $link-color
 
 
 // ========================================================================================
@@ -252,6 +260,7 @@ $default-article-font-size = $temp-default-article-font-size ? convert($temp-def
 $default-line-height = $temp-default-line-height ? $temp-default-line-height : 1.5
 $default-font-weight = 400
 
+
 // ========================================================================================
 //                                  LIGHT/DARK MODE SWITCH
 // ========================================================================================
@@ -265,6 +274,7 @@ root-color(mode) {
   --third-background-color mode == 'light' ? $third-background-color : $dark-third-background-color
   --third-background-color-transparent mode == 'light' ? $third-background-color-transparent : $dark-third-background-color-transparent
   --primary-color mode == 'light' ? $primary-color : $dark-primary-color
+  --link-color mod == 'light' ? $link-color : $dark-link-color
   --first-text-color mode == 'light' ? $first-text-color : $dark-first-text-color
   --second-text-color mode == 'light' ? $second-text-color : $dark-second-text-color
   --third-text-color mode == 'light' ? $third-text-color : $dark-third-text-color
@@ -284,7 +294,7 @@ root-color(mode) {
   --avatar-background-color mode == 'light' ? $avatar-background-color : $dark-avatar-background-color
   --pjax-progress-bar-color : mode == 'light' ? $pjax-progress-bar-color : $dark-pjax-progress-bar-color
   --archive-timeline-last-child-color : mode == 'light' ? $archive-timeline-last-child-color : $dark-archive-timeline-last-child-color
-  
+
   --note-blue-title-bg : mode == 'light' ? $note-blue-title-bg : $dark-note-blue-title-bg
   --note-red-title-bg : mode == 'light' ? $note-red-title-bg : $dark-note-red-title-bg
   --note-cyan-title-bg : mode == 'light' ? $note-cyan-title-bg : $dark-note-cyan-title-bg

@@ -33,6 +33,8 @@ defaults:
 colors:
     #Primary color
     primary: "#32aac9"
+    # link color is Primary color
+    primary_link: true
     # Secondary color (TBD)
     secondary:
     # Default theme mode initial value (will be overwritten by prefer-color-scheme)
@@ -200,11 +202,11 @@ navbar:
             path: /
             icon: fa-regular fa-planet-ringed # can be empty
         Timeline:
-            path: /archives
+            path: /archives/
             icon: fa-sharp fa-regular fa-timeline-arrow # can be empty
             submenus:
                 Archives:
-                    path: /archives
+                    path: /archives/
                     icon: fa-regular fa-box-archive
                 Records:
                     path: /records
@@ -214,26 +216,26 @@ navbar:
         #   icon: fa-regular fa-chart-bar
         Masonry:
             icon: fa-regular fa-image
-            path: /masonry
+            path: /masonry/
         Indexs:
             icon: fa-regular fa-bars
             submenus:
                 Tags:
-                    path: /tags
+                    path: /tags/
                     icon: fa-regular fa-tag
                 Categories:
-                    path: /categories
+                    path: /categories/
                     icon: fa-regular fa-inbox
         About:
             icon: fa-regular fa-sparkles
-            path: /about
+            path: /about/
         #   submenus:
         #     Me:
         #       path: /about
         #       icon: fa-regular fa-sparkles
         Friends:
             icon: fa-regular fa-gift
-            path: /links
+            path: /links/
         # ...... # you can add more
     # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
     search:
@@ -409,9 +411,9 @@ footer:
     customize:
     # ICP record number. See https://beian.miit.gov.cn/
     icp:
-        enable: false # Whether to enable
-        number: # ICP record number
-        url: # ICP record url
+        enable: true # Whether to enable
+        number: 萌ICP备20241799号 # ICP record number
+        url: "https://icp.gov.moe/?keyword=20241799" # ICP record url
 # FOOTER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # INJECT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
