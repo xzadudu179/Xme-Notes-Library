@@ -79,6 +79,20 @@ comment: true
 <!-- start content -->
 <h4>
     <div class="circsmall"></div>
+    09-06
+</h4>
+<span class="content">
+
+#### 修复了点问题
+
+-   发现手机端无法打开导航栏子菜单，会变成 404，于是修复了一下（）
+
+</span>
+<!-- end content -->
+
+<!-- start content -->
+<h4>
+    <div class="circsmall"></div>
     09-05
 </h4>
 <span class="content">

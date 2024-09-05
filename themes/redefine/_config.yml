@@ -21,7 +21,7 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
     # Favicon
-    favicon: /images/icon.ico
+    favicon: https://pic.imgdb.cn/item/66da07a4d9c307b7e95ba753.jpg
     # Site logo
     logo: # /images/user/179.ico
     # Site avatar
