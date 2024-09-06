@@ -7,7 +7,7 @@ tags:
 cover: https://s2.loli.net/2024/09/06/sUfi2pAHETqkNol.png
 # excerpt: "注册了一个域名 179.life，想让它发挥更多的作用（比如将子域名分给别人使用）"
 categories:
-    - [网络, 服务]
+    - [network, service]
 ---
 
 ## 想法

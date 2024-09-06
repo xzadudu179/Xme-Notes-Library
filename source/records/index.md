@@ -79,6 +79,24 @@ comment: true
 <!-- start content -->
 <h4>
     <div class="circsmall"></div>
+    09-07
+</h4>
+<span class="content">
+
+#### 换了文章路径
+
+将文章路径修改成了 `:category/:title/` 的格式，感觉更方便分类（？
+
+{% note yellow fa-triangle-exclamation %}
+修改文章路径有一个小问题，就是曾经的文章链接会失效变成 404
+{% endnote %}
+
+</span>
+<!-- end content -->
+
+<!-- start content -->
+<h4>
+    <div class="circsmall"></div>
     09-06
 </h4>
 <span class="content">
