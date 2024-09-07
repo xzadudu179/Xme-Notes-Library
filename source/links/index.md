@@ -10,20 +10,20 @@ cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 
 {% note yellow fa-exclamation %}
 
-### 链接要求
+### 申请链接要求
 
--   内容安全合法
--   基本可以正常访问
--   申请者在我的个人 qq 群/已将我的友链内容放入你的网站
-    {% endnote %}
+-   内容合法
+-   大多数情况可以正常访问
 
-### 申请格式 (YAML 值)
+{% endnote %}
 
-1. 显示名
-2. 链接 URL
-3. 描述
-4. 头像 URL
-5. 封面图 URL （可选）
+### 申请格式 (YAML)
+
+1. \- name: 显示名
+2.   link: 链接 URL
+3.   description: 描述
+4.   avatar: 头像 URL
+5.   thumbnail: 封面图 URL （可选）
 
 ### 示例
 

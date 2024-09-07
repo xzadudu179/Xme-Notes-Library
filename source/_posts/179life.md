@@ -3,6 +3,7 @@ title: 共享域名 179.life
 type: 179life
 tags:
   - 想法
+  - 域名
 cover: 'https://s2.loli.net/2024/09/06/sUfi2pAHETqkNol.png'
 categories:
   - - 网络

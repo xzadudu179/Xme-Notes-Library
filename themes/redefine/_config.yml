@@ -90,8 +90,8 @@ global:
     open_graph: true
     # Google Analytics
     google_analytics:
-        enable: false # Whether to enable Google Analytics
-        id: # Google Analytics Measurement ID
+        enable: true # Whether to enable Google Analytics
+        id: G-6KSK78ZGS1 # Google Analytics Measurement ID
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # FONTAWESOME >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -265,6 +265,9 @@ home:
             # Categories:
             #   path: /categories
             #   icon: fa-regular fa-folder # can be empty
+            Goals:
+                icon: fa-regular fa-rocket-launch
+                path: /goals
             Sponsor:
                 icon: fa-regular fa-bolt
                 path: https://afdian.com/a/xzadudu179
