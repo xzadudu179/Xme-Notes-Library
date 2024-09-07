@@ -5,8 +5,8 @@ tags:
   - 想法
 cover: 'https://s2.loli.net/2024/09/06/sUfi2pAHETqkNol.png'
 categories:
-  - - network
-    - service
+  - - 网络
+    - 服务
 abbrlink: 16749
 date: 2024-09-06 00:44:15
 ---

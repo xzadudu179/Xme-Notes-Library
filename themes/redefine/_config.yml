@@ -329,7 +329,7 @@ articles:
         style: simple # mac | simple
         highlight_theme: # Color scheme for highlightjs code highlighting. For preview, see https://highlightjs.org/examples
             light: atom-one-light # light mode theme, support: github, atom-one-light, default
-            dark: agate # dark mode theme, support: github-dark, monokai-sublime, vs2015, night-owl, atom-one-dark, nord, tokyo-night-dark, a11y-dark, agate
+            dark: tokyo-night-dark # dark mode theme, support: github-dark, monokai-sublime, vs2015, night-owl, atom-one-dark, nord, tokyo-night-dark, a11y-dark, agate
         font: # Custom font
             enable: true # Whether to enable
             family: "Fira Code VF" # Font family
