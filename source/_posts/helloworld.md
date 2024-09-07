@@ -1,9 +1,11 @@
 ---
 title: 测试用文章
+tags:
+  - 测试
+excerpt: '只是一篇测试用文章, 也可以点进来看看owo'
+cover: 'https://s2.loli.net/2024/09/03/sGz5agXYOQNyBeo.jpg'
+abbrlink: 24071
 date: 2024-09-03 00:23:52
-tags: [测试]
-excerpt: "只是一篇测试用文章, 也可以点进来看看owo"
-cover: "https://s2.loli.net/2024/09/03/sGz5agXYOQNyBeo.jpg"
 ---
 
 ![Rain World](https://s2.loli.net/2024/09/04/45TmOdicFsJBHgL.jpg)
@@ -14,6 +16,7 @@ cover: "https://s2.loli.net/2024/09/03/sGz5agXYOQNyBeo.jpg"
 {
     "test": true,
     "style": "javascript"
+    "test": ">> << >= <= || awadsds"
 }
 ```
 

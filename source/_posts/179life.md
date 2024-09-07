@@ -1,13 +1,14 @@
 ---
 title: 共享域名 179.life
-date: 2024-09-06 00:44:15
 type: 179life
 tags:
-    - 想法
-cover: https://s2.loli.net/2024/09/06/sUfi2pAHETqkNol.png
-# excerpt: "注册了一个域名 179.life，想让它发挥更多的作用（比如将子域名分给别人使用）"
+  - 想法
+cover: 'https://s2.loli.net/2024/09/06/sUfi2pAHETqkNol.png'
 categories:
-    - [network, service]
+  - - network
+    - service
+abbrlink: 16749
+date: 2024-09-06 00:44:15
 ---
 
 ## 想法
