@@ -8,8 +8,11 @@ date: 2024-09-08 16:58:09
 
 {% note yellow fa-triangle-exclamation %}
 这个页面还在测试中！可能会遇到加载不出来的情况xwx
-我以后或许会换成别的应用而不是 Artitalk
+我以后或许会换成别的方法而不是 Artitalk
 {% endnote %}
+
+↓ 如果没有说说出现，请按这个按钮哦
+{% btn regular::刷新::/shuoshuo::fa-regular fa-rotate-right %}
 
 <style>
     /* .power {
@@ -36,18 +39,18 @@ new Artitalk({
     color1: '#32336522',
     color2: '#32aac9',
     atEmoji: {
-        deon_hug: "https://emoji.179.life/deon-emoji/deon_hug.png",
-        deon_expect: "https://emoji.179.life/deon-emoji/deon_expect.png",
-        deon_vomiting_blood: "https://emoji.179.life/deon-emoji/deon_vomiting-blood.png",
-        deon_p: "https://emoji.179.life/deon-emoji/deon_p.png",
-        deon_angry: "https://emoji.179.life/deon-emoji/deon_angry.png",
-        deon_eat: "https://emoji.179.life/deon-emoji/deon_eat.png",
-        x179_stealing: "https://emoji.179.life/179-emoji/179_stealing.png",
-        x179_zhaocai: "https://emoji.179.life/179-emoji/179_zhaocai.png",
-        x179_firecracker: "https://emoji.179.life/179-emoji/179_firecracker.png",
-        x179_firework: "https://emoji.179.life/179-emoji/179_firework.png",
-        x179_call: "https://emoji.179.life/179g-emoji/179g_call.gif",
-        x179_play: "https://emoji.179.life/179g-emoji/179g_play.gif",
+        deon_hug: "https://image.179.life/deon-emoji/deon_hug.png",
+        deon_expect: "https://image.179.life/deon-emoji/deon_expect.png",
+        deon_vomiting_blood: "https://image.179.life/deon-emoji/deon_vomiting-blood.png",
+        deon_p: "https://image.179.life/deon-emoji/deon_p.png",
+        deon_angry: "https://image.179.life/deon-emoji/deon_angry.png",
+        deon_eat: "https://image.179.life/deon-emoji/deon_eat.png",
+        x179_stealing: "https://image.179.life/179-emoji/179_stealing.png",
+        x179_zhaocai: "https://image.179.life/179-emoji/179_zhaocai.png",
+        x179_firecracker: "https://image.179.life/179-emoji/179_firecracker.png",
+        x179_firework: "https://image.179.life/179-emoji/179_firework.png",
+        x179_call: "https://image.179.life/179g-emoji/179g_call.gif",
+        x179_play: "https://image.179.life/179g-emoji/179g_play.gif",
     },
 })
 </script>

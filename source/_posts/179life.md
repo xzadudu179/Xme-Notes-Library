@@ -4,7 +4,7 @@ type: 179life
 tags:
   - 想法
   - 域名
-cover: 'https://s2.loli.net/2024/09/06/sUfi2pAHETqkNol.png'
+cover: 'https://image.179.life/images/Space%20Background3.png'
 categories:
   - - 网络
     - 服务

@@ -1,5 +1,5 @@
 contenttop: |
-  ![](https://s2.loli.net/2024/09/04/D37wSGlNo198Mxg.png)
+  ![](https://image.179.life/images/cake.png)
 
   # 开发记录
 
@@ -8,11 +8,18 @@ contenttop: |
 timeline:
   - year: "2024"
     records:
+      - name: "09-09"
+        content: |
+          #### 将 [sm.ms](https://sm.ms) 的图床改到了 image.179.life 上
+
+          为了防止不稳定 / 图片丢失等问题，还是选择把图片上传到了自己的图床上（？
+
+          感觉会更稳定一点，至少不用担心图片丢掉（哪怕丢掉也可以很快修好hhh
       - name: "09-08"
         content: |
           #### 使用了 [Vercel](https://vercel.com/) 搭建
           将另一个域名 [vercel.xzadudu179.top](https://vercel.xzadudu179.top/) 用于搭建在 vercel 上的博客，经过测试 vercel 上的访问速度会快一点（？
-          不过我也把 blog.xzadudu179.top 放在了 vercel 的域名里，如果用这个域名访问失败的话可以试试使用 vercel 的域名哦~
+          如果用 blog 子域名的页面觉得慢的话可以试试使用 vercel 的域名哦~ （不过其实我已经把国内的连接定向至 vercel 那里了）
           #### 增加了点新的页面
           1. [目标](/goals) 用来记录我个人的一些目标
           2. [说说](/shuoshuo) 用来分享我一些即刻想法~ (Powered By [Artitalk](https://artitalk.js.org/))

@@ -3,7 +3,6 @@ title: 友链
 type: links
 date: 2024-09-04 00:03:02
 comment: true
-cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 ---
 <style>
     .wl-reaction {
@@ -36,8 +35,8 @@ cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 - name: XME Notes Library # 显示名称
   link: https://blog.xzadudu179.top # 链接内容
   description: xzadudu179的小窝 # 描述
-  avatar: https://s2.loli.net/2024/09/03/fCO5DboFSr3cBLx.jpg # 头像
-  thumbnail: https://s2.loli.net/2024/09/04/D37wSGlNo198Mxg.png # 封面图 在置顶链接时才会显示
+  avatar: https://image.179.life/images/avatar.png # 头像
+  thumbnail: https://image.179.life/images/cake.png # 封面图 在置顶链接时才会显示
 ```
 
 {% note blue fa-sparkles %}
@@ -50,13 +49,13 @@ cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 
 <!-- tab 暗色主题-->
 
-![暗色效果图](https://s2.loli.net/2024/09/04/kVmLPublcHMgs1q.jpg)
+![暗色效果图](https://image.179.life/images/example.jpg)
 
 <!-- endtab -->
 
 <!-- tab 浅色主题-->
 
-![浅色效果图](https://s2.loli.net/2024/09/04/HIRQifkF8dYuebC.jpg)
+![浅色效果图](https://image.179.life/images/example-light.jpg)
 
 <!-- endtab -->
 
