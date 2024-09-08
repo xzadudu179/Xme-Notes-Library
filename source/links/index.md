@@ -5,6 +5,11 @@ date: 2024-09-04 00:03:02
 comment: true
 cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 ---
+<style>
+    .wl-reaction {
+        display: none;
+    }
+</style>
 
 {% folding cyan::申请友情链接 %}
 

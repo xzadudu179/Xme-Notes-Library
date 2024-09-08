@@ -76,7 +76,7 @@ global:
     # Website counter
     website_counter:
         url: https://cn.vercount.one/js # counter API URL (no need to change)
-        enable: false # enable website counter or not
+        enable: true # enable website counter or not
         site_pv: true # site page view
         site_uv: true # site unique visitor
         post_pv: true # post page view
@@ -173,7 +173,7 @@ home_banner:
             instagram: # your Instagram URL
             zhihu: # your ZhiHu URL
             twitter: https://twitter.com/xzadudu179 # your twitter URL
-            email: me@xzadudu179.top # your email
+            email: terra179@163.com # your email
             bilibili: https://space.bilibili.com/70738350
             # ...... # you can add more
         # Social links with QRcode drawers
@@ -214,9 +214,6 @@ navbar:
         # Status:
         #   path: https://status.ohevan.com/
         #   icon: fa-regular fa-chart-bar
-        Masonry:
-            icon: fa-regular fa-image
-            path: /masonry/
         Indexs:
             icon: fa-regular fa-bars
             submenus:
@@ -227,12 +224,24 @@ navbar:
                     path: /categories/
                     icon: fa-regular fa-inbox
         About:
-            icon: fa-regular fa-sparkles
-            path: /about/
-        #   submenus:
-        #     Me:
-        #       path: /about
-        #       icon: fa-regular fa-sparkles
+            icon: fa-regular fa-star-shooting
+            # path: /about/
+            submenus:
+                Myself:
+                    path: /about
+                    icon: fa-regular fa-sparkles
+                Masonry:
+                    icon: fa-regular fa-image
+                    path: /masonry/
+                Goals:
+                    icon: fa-regular fa-rocket-launch
+                    path: /goals
+                # Diary:
+                #     icon: fa-regular fa-notebook
+                #     path: /diary
+                Instant:
+                    icon: fa-regular fa-paper-plane
+                    path: /shuoshuo
         Friends:
             icon: fa-regular fa-gift
             path: /links/
@@ -265,9 +274,7 @@ home:
             # Categories:
             #   path: /categories
             #   icon: fa-regular fa-folder # can be empty
-            Goals:
-                icon: fa-regular fa-rocket-launch
-                path: /goals
+
             Sponsor:
                 icon: fa-regular fa-bolt
                 path: https://afdian.com/a/xzadudu179
@@ -379,10 +386,18 @@ comment:
         waline:
             serverUrl: https://comment.xzadudu179.top/ # Waline server URL. e.g. https://example.example.com
             lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
-            emoji: [] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
+            emoji: [
+                    https://emoji.179.life/179-emoji,
+                    https://emoji.179.life/deon-emoji,
+                ] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
             recaptchaV3Key: wasd # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
             turnstileKey: # Turnstile key. See https://waline.js.org/reference/client/props.html#turnstilekey
-            reaction: false # Waline reaction. See https://waline.js.org/reference/client/props.html#reaction
+            reaction: [
+                    https://emoji.179.life/deon-emoji/deon_expect.png,
+                    https://emoji.179.life/deon-emoji/deon_p.png,
+                    https://emoji.179.life/deon-emoji/deon_vomiting-blood.png,
+                    https://emoji.179.life/deon-emoji/deon_angry.png,
+                ] # Waline reaction. See https://waline.js.org/reference/client/props.html#reaction
         # Gitalk comment system. See https://github.com/gitalk/gitalk
         gitalk:
             clientID: # GitHub Application Client ID
@@ -486,7 +501,7 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
     # Whether to enable CDN
-    enable: false
+    enable: true
     # CDN Provider
     provider: npmmirror # npmmirror, zstatic, sustech, cdnjs, jsdelivr, unpkg, custom
     # Custom CDN URL
@@ -501,3 +516,11 @@ developer:
     # Whether to enable developer mode (only for developers who want to modify the theme source code, not for ordinary users)
     enable: true
 # DEVELOPER MODE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
+
+mathjax:
+    tags: none # or 'ams' or 'all'
+    single_dollars: true # enable single dollar signs as in-line math delimiters
+    cjk_width: 0.9 # relative CJK char width
+    normal_width: 0.6 # relative normal (monospace) width
+    append_css: true # add CSS to every page
+    every_page: false # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article

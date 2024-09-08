@@ -2,6 +2,7 @@
 title: 关于我
 date: 2024-09-03 00:21:17
 type: about
+comment: true
 ---
 
 <style>
@@ -14,6 +15,10 @@ type: about
         /* width: 100%; */
         display: flex;
         Justify-content: center;
+    }
+
+    .wl-reaction {
+        display: none;
     }
 
 </style>

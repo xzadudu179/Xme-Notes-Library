@@ -8,6 +8,19 @@ contenttop: |
 timeline:
   - year: "2024"
     records:
+      - name: "09-08"
+        content: |
+          #### 使用了 [Vercel](https://vercel.com/) 搭建
+          将另一个域名 [vercel.xzadudu179.top](https://vercel.xzadudu179.top/) 用于搭建在 vercel 上的博客，经过测试 vercel 上的访问速度会快一点（？
+          不过我也把 blog.xzadudu179.top 放在了 vercel 的域名里，如果用这个域名访问失败的话可以试试使用 vercel 的域名哦~
+          #### 增加了点新的页面
+          1. [目标](/goals) 用来记录我个人的一些目标
+          2. [说说](/shuoshuo) 用来分享我一些即刻想法~ (Powered By [Artitalk](https://artitalk.js.org/))
+          #### 一些其他变化
+          - 设置了访问人数和总访问量
+          - 给评论加了文章反馈小表情（？
+          - 配置了 CDN 加速
+          - 将 **关于我** 变成了一级菜单改名 **关于** 并且把 **相册** 和原本的关于页面都放了进去
       - name: "09-07"
         content: |
           #### 换了文章路径
