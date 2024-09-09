@@ -4,7 +4,7 @@ hexo.on('generateBefore', function () {
     const data = hexo.locals.get('data');
 
     if (data) {
-
+      // console.log(data)
       // theme config file handle
       if (data._config) {
         hexo.theme.config = data._config;
@@ -27,6 +27,13 @@ hexo.on('generateBefore', function () {
 
       if (data.masonry || data.gallery || data.photos) {
         hexo.theme.config.masonry = (data.masonry || data.gallery || data.photos);
+      }
+
+      // xme
+      // records file handle
+      if (data.records || data.record) {
+        // console.log(data.records)
+        hexo.theme.config.records = (data.records || data.record)
       }
 
     }

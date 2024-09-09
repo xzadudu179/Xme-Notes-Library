@@ -1,7 +1,7 @@
 # ----------------------------------------
 # 网站翻译
 # ----------------------------------------
-search: 站内搜索您需要的内容...
+search: 想搜什么呢 owo
 toc: 目录
 prev: 上一页
 next: 下一页
@@ -32,14 +32,14 @@ go-back-home: 回到首页
 home: 首页
 Archive: 归档
 Archives: 归档
-about: 关于我
+about: 关于
 links: 链接
 link: 链接
 friends: 友链
 friend: 友链
 timeline: 时间轴
-shuoshuo: 说说
-me: 我
+instant: 说说
+myself: 个人介绍
 
 # ----------------------------------------
 # 网站统计
@@ -106,3 +106,7 @@ Page Not Found: 这里好像什么都没有！
 archive: 归档
 archives: 归档
 records: 开发记录
+Goals: 目标
+goals: 目标
+diary: 日记
+Diary: 日记

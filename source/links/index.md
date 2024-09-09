@@ -3,27 +3,31 @@ title: 友链
 type: links
 date: 2024-09-04 00:03:02
 comment: true
-cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 ---
+<style>
+    .wl-reaction {
+        display: none;
+    }
+</style>
 
 {% folding cyan::申请友情链接 %}
 
 {% note yellow fa-exclamation %}
 
-### 链接要求
+### 申请链接要求
 
--   内容安全合法
--   基本可以正常访问
--   申请者在我的个人 qq 群/已将我的友链内容放入你的网站
-    {% endnote %}
+-   内容合法
+-   大多数情况可以正常访问
 
-### 申请格式 (YAML 值)
+{% endnote %}
 
-1. 显示名
-2. 链接 URL
-3. 描述
-4. 头像 URL
-5. 封面图 URL （可选）
+### 申请格式 (YAML)
+
+1. \- name: 显示名
+2.   link: 链接 URL
+3.   description: 描述
+4.   avatar: 头像 URL
+5.   thumbnail: 封面图 URL （可选）
 
 ### 示例
 
@@ -31,8 +35,8 @@ cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 - name: XME Notes Library # 显示名称
   link: https://blog.xzadudu179.top # 链接内容
   description: xzadudu179的小窝 # 描述
-  avatar: https://s2.loli.net/2024/09/03/fCO5DboFSr3cBLx.jpg # 头像
-  thumbnail: https://s2.loli.net/2024/09/04/D37wSGlNo198Mxg.png # 封面图 在置顶链接时才会显示
+  avatar: https://image.179.life/images/avatar.png # 头像
+  thumbnail: https://image.179.life/images/cake.png # 封面图 在置顶链接时才会显示
 ```
 
 {% note blue fa-sparkles %}
@@ -45,13 +49,13 @@ cover: "https://s2.loli.net/2024/09/04/UyS9aH4Z28lkq7e.png"
 
 <!-- tab 暗色主题-->
 
-![暗色效果图](https://s2.loli.net/2024/09/04/kVmLPublcHMgs1q.jpg)
+![暗色效果图](https://image.179.life/images/example.jpg)
 
 <!-- endtab -->
 
 <!-- tab 浅色主题-->
 
-![浅色效果图](https://s2.loli.net/2024/09/04/HIRQifkF8dYuebC.jpg)
+![浅色效果图](https://image.179.life/images/example-light.jpg)
 
 <!-- endtab -->
 

@@ -2,6 +2,7 @@
 title: 关于我
 date: 2024-09-03 00:21:17
 type: about
+comment: true
 ---
 
 <style>
@@ -16,6 +17,10 @@ type: about
         Justify-content: center;
     }
 
+    .wl-reaction {
+        display: none;
+    }
+
 </style>
 
 ### Hi!
@@ -28,7 +33,7 @@ type: about
 
 <div style="max-width:355px;width:100%;float:right">
 
-![设定-九镹](https://s2.loli.net/2024/09/05/kwFvhPiGECUxOZ6.png)
+![设定-九镹](https://image.179.life/images/179.png)
 
 </div>
 
