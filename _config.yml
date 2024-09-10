@@ -41,7 +41,7 @@ external_link:
     exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 marked:
     prependRoot: true
     postAsset: true
@@ -73,8 +73,8 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
-  "coding": coding
-  "record": record
+    "coding": coding
+    "record": record
 tag_map:
 
 # Metadata elements
