@@ -91,6 +91,12 @@ comment: true
 
 ---
 
+### 现在在做些什么：
+##### - 音游 [Milthm](https://milthm.com/) 谱师 + 曲师
+##### - 学习
+##### - 制作程序
+---
+
 ### 适合抓到我的地方：
 
 ##### <i class="fa-regular fa-code-compare"></i> <font class="primary"> [Github](https://github.com/xzadudu179) </font>

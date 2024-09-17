@@ -18,7 +18,23 @@
       link: https://blog.im0o.top/
       description: 光阴如梦，昨日随风
       avatar: https://image.im0o.top/files/202112021204213.jpg
+    - name: 锐龙的小窝
+      link: https://blog.sharpice.top/
+      description: 锐冰的个人博客
+      avatar: https://blog.sharpice.top/favicon.png
 
 - links_category: 网站推荐
   has_thumbnail: false
   list:
+    - name: 全国音游地图
+      link: https://map.bemanicn.com/
+      description: BEMANICN
+      avatar: https://map.bemanicn.com/favicon.png
+    - name: Milthm
+      link: https://milthm.com/
+      description: '"雨之声，梦之形。"'
+      avatar: https://milthm.com/img/icon.png
+    - name: OKLCH Color Picker & Converter
+      link: https://oklch.com/
+      description: OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
+      avatar: https://oklch.com/oklch-BhPJAgVY.svg

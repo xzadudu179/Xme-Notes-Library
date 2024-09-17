@@ -8,6 +8,12 @@ contenttop: |
 timeline:
   - year: "2024"
     records:
+      - name: "09-12"
+        content: |
+          #### 更新个人介绍以及友链
+          个人介绍多了点东西，友链多了一个网站推荐的内容~
+          #### 一些其他变化
+          - 更改了本页面时间轴上边的部分
       - name: "09-11"
         content: |
           #### 测试用页面 /test
