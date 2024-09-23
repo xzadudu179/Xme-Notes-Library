@@ -1,5 +1,5 @@
 ---
-title: 从零开始使用 Hexo 搭建个人博客
+title: 从零开始：使用 Hexo 搭建个人博客
 type: hexoblog
 abbrlink: 18015
 date: 2024-09-10 15:22:23
