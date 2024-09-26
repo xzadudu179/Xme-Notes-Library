@@ -8,6 +8,12 @@ contenttop: |
 timeline:
   - year: "2024"
     records:
+      - name: "09-27"
+        content: |
+          #### 增加 RSS 页面
+          增加了一个 [RSS 页面](/atom.xml)
+          ### 一些其他变化
+          - 将 CDN 服务器切换为 `npmmirror``
       - name: "09-12"
         content: |
           #### 更新个人介绍以及友链
