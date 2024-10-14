@@ -7,7 +7,7 @@ expires: 2025-09-10 23:59:59
 tags:
 - 教程
 - Hexo
-cover: https://image.179.life/images/hexoblog_cover.png
+cover: https://image.179.life/images/blog/hexoblog_cover.png
 categories:
 - - 软件
   - 记录
@@ -74,7 +74,7 @@ npm -v # layouts.download.codeBox.shouldPrint
 {% btn regular::Node.js 安装程序::https://nodejs.org/dist/v22.8.0/node-v22.8.0-x64.msi::fa-regular fa-hexagon-check %}
 
 1. 点击上方按钮或[访问官网](https://nodejs.org/zh-cn/download/prebuilt-installer)下载当前（2024年9月10日）最新版本的 Node.js（v22.8.0）
-2. 双击打开刚刚下载的安装程序，此时你应该看到如下窗口：![Node.js 安装窗口](https://image.179.life/images/nodejs-install1.png)
+2. 双击打开刚刚下载的安装程序，此时你应该看到如下窗口：![Node.js 安装窗口](https://image.179.life/images/blog/nodejs-install1.png)
 3. 点击 `Next` 按钮继续，接下来会让你接受安装协议，勾选 `I accept the terms in the License Agreement` 并且点击 `Next` 继续。
 4. 安装程序让你选择程序安装路径，可以随便找一个路径安装。
 5. 接下来一路按 `Next` 安装就行。
@@ -87,7 +87,7 @@ npm -v # layouts.download.codeBox.shouldPrint
 2. 将下载到的 .zip 文件解压到一个合适的路径。
 3. 按 `win` + `r` 键，输入 `sysdm.cpl` 打开系统属性设置，选择 `高级` > `环境变量`。
 4. 在 `系统变量` 栏的 `Path` 环境变量下点击 `编辑`，在列表下添加一个新项，值为你的**Node.js 二进制文件路径**。
-![编辑环境变量 Path](https://image.179.life/images/nodejs-install2.png)
+![编辑环境变量 Path](https://image.179.life/images/blog/nodejs-install2.png)
 {% note yellow fa-circle-exclamation %}
 如果你的 `Path` 变量编辑设置不长这样，而是一个输入框的话，在 `变量值` 的最后输入一个**英文分号**，然后复制你的**Node.js 二进制文件路径**。
 {% endnote %}
@@ -149,7 +149,7 @@ hexo s
 ```
 
 此时访问 https://localhost:4000 应该能够看到如下画面：
-![Hexo 初始页面](https://image.179.life/images/hexo-hello.png)
+![Hexo 初始页面](https://image.179.life/images/blog/hexo-hello.png)
 
 那么恭喜你已经成功搭建好了 Hexo 个人服务端并且可以在本地访问了！
 
@@ -192,18 +192,18 @@ theme: theme # 你选择的主题名称
 
 #### 添加你的 github.io 仓库
 登录你的 Github 账号，在个人资料页面的 `Respositories` 里点击 `New` 按钮
-![新建一个仓库](https://image.179.life/images/githubio1.jpg)
+![新建一个仓库](https://image.179.life/images/blog/githubio1.jpg)
 填写 `Repository name` 项为 `你的用户名.github.io`
-![填写 Repository name 项](https://image.179.life/images/githubio2.jpg)
+![填写 Repository name 项](https://image.179.life/images/blog/githubio2.jpg)
 
 {% notel warning fa-circle-exclamation 注意 %}
 仓库需要是 public 才可被访问 github pages，除非你是 pro 用户。
 {% endnotel %}
 
 此时你应该可以看到如下画面：
-![空仓库界面](https://image.179.life/images/githubio4.jpg)
+![空仓库界面](https://image.179.life/images/blog/githubio4.jpg)
 选择红框框起来的 `HTTPS`，在箭头指向的位置点击复制按钮，可以将你的 github.io 项目的地址复制到剪切板。
-![复制仓库地址](https://image.179.life/images/githubio3.png)
+![复制仓库地址](https://image.179.life/images/blog/githubio3.png)
 
 #### 发布博客至你的 github.io 仓库
 在命令行安装 `hexo-deployer-git`:
@@ -213,15 +213,15 @@ npm install hexo-deployer-git --save
 如果需要让 Hexo 使用你的 github 项目，需要获取个人 token：
 {% folding cyan::获取个人 token 方法 %}
 点击右上角的头像，选择 `Settings`。
-![设置](https://image.179.life/images/githubio5.jpg)
+![设置](https://image.179.life/images/blog/githubio5.jpg)
 在设置下方找到 `Developer settings`。
-![找到 Developer settings](https://image.179.life/images/githubio6.jpg)
+![找到 Developer settings](https://image.179.life/images/blog/githubio6.jpg)
 根据图内框选处选择生成新的 token。
-![找到 Developer settings](https://image.179.life/images/githubio7.jpg)
+![找到 Developer settings](https://image.179.life/images/blog/githubio7.jpg)
 设置 token 的名字、期限和适用范围。
-![找到 Developer settings](https://image.179.life/images/githubio8.jpg)
+![找到 Developer settings](https://image.179.life/images/blog/githubio8.jpg)
 点击复制按钮复制 token 的值 （注意： token 只会显示一次）
-![复制 token 内容](https://image.179.life/images/githubio9.jpg)
+![复制 token 内容](https://image.179.life/images/blog/githubio9.jpg)
 {% note warning fa-circle-exclamation %}
 我用的是旧版 token 生成方法，如果你了解新版 token 的生成，也可以去使用新版。
 {% endnote %}
@@ -254,7 +254,7 @@ hexo d
 可以检查一下你的仓库可见性是否为 Public，也就是中间上方显示的仓库名称右边小框里的内容。
 ##### Github pages 分支不为 main
 前往你 github.io 仓库里的 `Settings` > `Pages` 设置查看 `Build and deployment` 栏位中的 `Branch` 是否为 `main`，如果是 `None`，就调整为 `main`。
-![调整分支设置](https://image.179.life/images/githubio10.jpg)
+![调整分支设置](https://image.179.life/images/blog/githubio10.jpg)
 之后再次等待一段时间看看可不可以访问。
 如果还是不行的话，可以看看上方图片写的站点文件夹是否为 `/` 或是你在 Hexo 项目文件夹下的 `_config` 设置的 `root` 项值。
 
@@ -266,7 +266,7 @@ hexo d
 如果你想把你部署在 Github Pages 的 Hexo 个人博客放到自己的域名下，可以看看如下内容：
 
 前往你 github.io 仓库里的 `Settings` > `Pages` 设置查看 `Custom domain` 栏位，填写自定义域名为你的域名并且勾选 `Enforce HTTPS` 用来强制使用 HTTPS 协议。
-![修改自定义域名](https://image.179.life/images/githubio11.jpg)
+![修改自定义域名](https://image.179.life/images/blog/githubio11.jpg)
 
 在你的 Hexo 项目文件夹下的 `source` 文件夹下创建一个名为 `CNAME` 的文件（注意，完整文件名就是 `CNAME`），然后在第一行写下你的域名，例如：
 ```CNAME

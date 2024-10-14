@@ -49,13 +49,13 @@ comment: true
 
 <!-- tab 暗色主题-->
 
-![暗色效果图](https://image.179.life/images/example.jpg)
+![暗色效果图](https://image.179.life/images/blog/example.jpg)
 
 <!-- endtab -->
 
 <!-- tab 浅色主题-->
 
-![浅色效果图](https://image.179.life/images/example-light.jpg)
+![浅色效果图](https://image.179.life/images/blog/example-light.jpg)
 
 <!-- endtab -->
 
