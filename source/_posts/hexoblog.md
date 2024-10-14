@@ -3,7 +3,7 @@ title: 从零开始：使用 Hexo 搭建个人博客
 type: hexoblog
 abbrlink: 18015
 date: 2024-09-10 15:22:23
-expires: 2025-09-10 23:59:59
+expires: 2025-10-04 23:59:59
 tags:
 - 教程
 - Hexo
@@ -71,9 +71,9 @@ npm -v # layouts.download.codeBox.shouldPrint
 <!-- endtab -->
 
 <!-- tab 安装程序-->
-{% btn regular::Node.js 安装程序::https://nodejs.org/dist/v22.8.0/node-v22.8.0-x64.msi::fa-regular fa-hexagon-check %}
+{% btn regular::Node.js 安装程序::https://nodejs.org/dist/v22.9.0/node-v22.9.0-x64.msi::fa-regular fa-hexagon-check %}
 
-1. 点击上方按钮或[访问官网](https://nodejs.org/zh-cn/download/prebuilt-installer)下载当前（2024年9月10日）最新版本的 Node.js（v22.8.0）
+1. 点击上方按钮或[访问官网](https://nodejs.org/zh-cn/download/prebuilt-installer)下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）
 2. 双击打开刚刚下载的安装程序，此时你应该看到如下窗口：![Node.js 安装窗口](https://image.179.life/images/blog/nodejs-install1.png)
 3. 点击 `Next` 按钮继续，接下来会让你接受安装协议，勾选 `I accept the terms in the License Agreement` 并且点击 `Next` 继续。
 4. 安装程序让你选择程序安装路径，可以随便找一个路径安装。
@@ -81,9 +81,9 @@ npm -v # layouts.download.codeBox.shouldPrint
 <!-- endtab -->
 
 <!-- tab 二进制文件-->
-{% btn regular::Node.js 二进制文件::https://nodejs.org/dist/v22.8.0/node-v22.8.0-win-x64.zip::fa-regular fa-hexagon-check %}
+{% btn regular::Node.js 二进制文件::https://nodejs.org/dist/v22.9.0/node-v22.9.0-win-x64.zip::fa-regular fa-hexagon-check %}
 
-1. 点击上方按钮或[访问官网](https://nodejs.org/zh-cn/download/prebuilt-binaries)下载当前（2024年9月10日）最新版本的 Node.js（v22.8.0）
+1. 点击上方按钮或[访问官网](https://nodejs.org/zh-cn/download/prebuilt-binaries)下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）
 2. 将下载到的 .zip 文件解压到一个合适的路径。
 3. 按 `win` + `r` 键，输入 `sysdm.cpl` 打开系统属性设置，选择 `高级` > `环境变量`。
 4. 在 `系统变量` 栏的 `Path` 环境变量下点击 `编辑`，在列表下添加一个新项，值为你的**Node.js 二进制文件路径**。
@@ -118,8 +118,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
 #### 安装 Git
 在 [Git 官网](https://git-scm.com/)可以安装到最新版的 Git.
-{% btn regular::64x Git 安装包::https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe::fa-regular fa-hexagon-check %}
-点击上方按钮下载当前（2024年9月10日）最新版本的 Git.
+{% btn regular::64x Git 安装包::https://github.com/git-for-windows/git/releases/download/v2.46.2.windows.1/Git-2.46.2-64-bit.exe::fa-regular fa-hexagon-check %}
+点击上方按钮下载当前（2024年10月4日）最新版本的 Git.
 
 Git 的安装方式类似 Node.js，如果不清楚可以去网上搜教程。我就先不写啦（溜走）
 

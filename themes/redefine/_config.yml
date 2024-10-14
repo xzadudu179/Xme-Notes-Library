@@ -62,7 +62,7 @@ global:
             family: # Font family
             url: # Font URL to CSS file
     # Content max width
-    content_max_width: 1100px
+    content_max_width: 1000px
     # Sidebar width
     sidebar_width: 210px
     # Effects on mouse hover
@@ -194,7 +194,7 @@ navbar:
         transparency: 35 #percent (10-99)
     # Navbar width (usually no need to modify)
     width:
-        home: 1200px #home page
+        home: 1050px #home page
         pages: 1000px #other pages
     # Navbar links
     links:
