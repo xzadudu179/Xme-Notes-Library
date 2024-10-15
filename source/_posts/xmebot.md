@@ -83,7 +83,7 @@ XME-Bot 是完全开源的，我希望大家可以帮忙 / 玩一玩我的机器
 
 我给 XME-Bot 单独写了一个文档在 [https://docs.xme.xzadudu179.top](https://docs.xme.xzadudu179.top) 里面，大概方便合作开发也方便群友看帮助什么的~
 
-顺便，这是我第一次写这种技术文档（？）用了一个可能不是很火的 [Docisfy](https://github.com/docsifyjs) 框架（里面一大堆 CSS 被我自己改了一下 hhh）
+顺便，这是我第一次写这种技术文档（？）用了一个可能不是很火的 [Docsify](https://github.com/docsifyjs) 框架（里面一大堆 CSS 被我自己改了一下 hhh）
 
 ## 想法
 
