@@ -1642,10 +1642,13 @@ video {
 }
 
 :is(.dark .dark\:block) {
+  /* transition: 0.5s allow-discrete; */
   display: block;
+  /* opacity: 1; */
 }
 
 :is(.dark .dark\:hidden) {
+  /* transition: 0.5s allow-discrete; */
   display: none;
 }
 
