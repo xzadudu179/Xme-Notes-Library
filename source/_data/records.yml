@@ -8,6 +8,16 @@ contenttop: |
 timeline:
   - year: "2024"
     records:
+      - name: "11-05"
+        content: |
+          #### 将 blog.xzadudu179.top 转为 Vercel 代理
+          不再用 vercel.xzadudu179.top 的域名了，vercel 域名转正了（？）且代理服务器切换至香港，连接应该会更快一些 owo。
+      - name: "11-01"
+        content: |
+          #### 制作了个人主页
+          制作了[个人主页](https://xzadudu179.top)！用来介绍自己~
+
+          把自己的个人介绍也增加了个人主页的入口~
       - name: "10-27"
         content: |
           #### 一些变化
