@@ -241,7 +241,7 @@ navbar:
                 #     path: /diary
                 Instant:
                     icon: fa-regular fa-paper-plane
-                    path: /shuoshuo
+                    path: /essays
         Friends:
             icon: fa-regular fa-stars
             path: /links/

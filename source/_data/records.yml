@@ -12,6 +12,9 @@ timeline:
         content: |
           #### 将 blog.xzadudu179.top 转为 Vercel 代理
           不再用 vercel.xzadudu179.top 的域名了，vercel 域名转正了（？）且代理服务器切换至香港，连接应该会更快一些 owo。
+
+          #### 将说说页面改为主题实现而非 Artitalk
+          因为觉得原先的说说不稳定，而且可能有些问题，于是更换了一下（）坏处是没有评论什么的，不过应该无所谓 ovo。
       - name: "11-01"
         content: |
           #### 制作了个人主页
