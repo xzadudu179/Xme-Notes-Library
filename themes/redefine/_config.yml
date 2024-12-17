@@ -471,23 +471,32 @@ plugins:
         enable: true # Whether to enable
     # Aplayer. See https://github.com/DIYgod/APlayer
     aplayer:
-        enable: false # Whether to enable
+        enable: true # Whether to enable
         type: fixed # fixed, mini
         audios:
-            - name: # audio name
-              artist: # audio artist
-              url: # audio url
-              cover: # audio cover url
+            - name: "-Galaxy Crystal-" # audio name
+              artist: xzadudu179 # audio artist
+              url: https://image.179.life/music/Galaxy_crystal_xzadudu179.mp3 # audio url
+              cover: https://image.179.life/music/covers/Galaxy_Crystal_xzadudu179.png # audio cover url
+
+            - name: Frozen Dream # audio name
+              artist: xzadudu179 # audio artist
+              url: https://image.179.life/music/Frozen_Dream.mp3 # audio url
+              cover: https://image.179.life/music/covers/Frozen_Dream.jpg # audio cover url
+
+            - name: "Starry Sea [For 2023-04-04]" # audio name
+              artist: xzadudu179 # audio artist
+              url: https://image.179.life/music/Starry_Sea.mp3 # audio url
+              cover: https://image.179.life/music/covers/Starry_Sea.jpg # audio cover url
+
+            - name: "[For 宇喵天枢] 星芽" # audio name
+              artist: xzadudu179 # audio artist
+              url: https://image.179.life/music/星芽.mp3 # audio url
+              cover: https://image.179.life/music/covers/星芽.png # audio cover url
               lrc: # audio cover lrc
-    #      - name: # audio name
-    #        artist: # audio artist
-    #        url: # audio url
-    #        cover: # audio cover url
-    #        lrc: # audio cover lrc
-    # .... you can add more audios here
     # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
     mermaid:
-        enable: false # enable mermaid or not
+        enable: true # enable mermaid or not
         version: "9.3.0" # default v9.3.0
 # PLUGINS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 

@@ -8,6 +8,16 @@ contenttop: |
 timeline:
   - year: "2024"
     records:
+      - name: "12-17"
+        content: |
+          #### 增加了 Aplayer 播放器
+          虽说我本身不太喜欢博客加音乐的功能（因为感觉有点容易让博客变得臃肿（？））但是考虑到我是[曲师](https://music.163.com/#/artist?id=47602263)，忽然觉得这种事情变得合理了起来（）
+
+          所以我给我的博客首页加了一个 Aplayer 播放器，用于播放我的曲子~
+          #### TODO: 更新为 Redefine 最新版本
+          因为新版本有一些适配问题，所以暂时停留在了 v2.7.1
+
+          我打算等到它的子菜单可选图标出来后好好调整一下博客页面什么的，来适配最新的版本~
       - name: "11-05"
         content: |
           #### 将 blog.xzadudu179.top 转为 Vercel 代理
