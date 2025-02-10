@@ -10,10 +10,6 @@
 - links_category: 友情链接
   has_thumbnail: false
   list:
-    - name: 千枫
-      link: https://blog.qfys521.cn/
-      description: 千枫的博客站
-      avatar: https://blog.qfys521.cn/wp-content/uploads/2023/03/img_439233438_1677769243767.jpeg
     - name: Hello I'm 0o酱
       link: https://blog.im0o.top/
       description: 光阴如梦，昨日随风
