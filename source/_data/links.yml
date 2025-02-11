@@ -32,5 +32,9 @@
       avatar: https://milthm.com/img/icon.png
     - name: OKLCH Color Picker & Converter
       link: https://oklch.com/
-      description: OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
+      description: OKLCH is a new way to encode colors.
       avatar: https://oklch.com/oklch-BhPJAgVY.svg
+    - name: 全球光污染地图 - Light Pollution Map
+      link: https://www.darkmap.cn/
+      description: 通过波特尔光害等级展示交互式全球光污染地图。
+      avatar: https://www.darkmap.cn/favicon.ico
