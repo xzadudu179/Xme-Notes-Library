@@ -11,6 +11,7 @@
 info:
     # Site title
     title: XME Notes Library
+    subtitle: xzadudu179 的小窝
     # Author name
     author: xzadudu179
     # Site URL
@@ -87,7 +88,10 @@ global:
         enable: false
         custom_message: XME Notes Library # Custom message. If empty, the site title will be displayed
     # Whether to enable open graph
-    open_graph: true
+    open_graph:
+        enable: true
+        image: https://image.179.life/images/background-dark-with-header.png # default og:image
+        description: xzadudu179 的小窝
     # Google Analytics
     google_analytics:
         enable: true # Whether to enable Google Analytics
@@ -246,6 +250,32 @@ navbar:
             icon: fa-regular fa-stars
             path: /links/
         # ...... # you can add more
+    # links:
+    #     Home:
+    #         path: /
+    #         icon: fa-regular fa-planet-ringed # can be empty
+    #     Timeline:
+    #         path: /archives/
+    #         icon: fa-sharp fa-regular fa-star-shooting # can be empty
+    #         submenus:
+    #             Archives: /archives/
+    #             Records: /records
+    #     Indexs:
+    #         icon: fa-regular fa-bars
+    #         submenus:
+    #             Tags: /tags/
+    #             Categories: /categories/
+    #     About:
+    #         icon: fa-regular fa-star-christmas
+    #         # path: /about/
+    #         submenus:
+    #             Myself: /about
+    #             Masonry: /masonry/
+    #             Goals: /goals
+    #             Instant: /essays
+    #     Friends:
+    #         icon: fa-regular fa-stars
+    #         path: /links/ # ...... # you can add more
     # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
     search:
         # Whether to enable
@@ -265,16 +295,6 @@ home:
         announcement: <i class="fa-regular fa-thumbtack"></i> 还在搭建中的小窝~ # Announcement text
         show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
         links:
-            # Archives:
-            #   path: /archives
-            #   icon: fa-regular fa-archive # can be empty
-            # Tags:
-            #   path: /tags
-            #   icon: fa-regular fa-tags # can be empty
-            # Categories:
-            #   path: /categories
-            #   icon: fa-regular fa-folder # can be empty
-
             Sponsor:
                 icon: fa-regular fa-bolt
                 path: https://afdian.com/a/xzadudu179
@@ -303,10 +323,11 @@ articles:
     style:
         font_size: 16px # Font size
         line_height: 1.5 # Line height
-        image_border_radius: 10px # image border radius
+        image_border_radius: 14px # image border radius
         image_alignment: center # image alignment. left, center
-        image_caption: true # Whether to display image caption
+        image_caption: false # Whether to display image caption
         link_icon: true # Whether to display link icon
+        delete_mask: false # Add mask effect to <del> tags, hiding content by default and revealing on hover
         title_alignment: left # Title alignment. left, center
         headings_top_spacing: # Top spacing for headings from h1-h6
             h1: 3.2rem
@@ -360,6 +381,8 @@ articles:
         default: cc_by_nc # Default license, can be cc_by_nc_sa, cc_by_nd, cc_by_nc, cc_by_sa, cc_by, all_rights_reserved, public_domain
     # Whether to enable lazyload for images
     lazyload: true
+    # Pangu.js (automatically add space between Chinese and English). See https://github.com/vinta/pangu.js
+    pangu_js: false
     # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
     recommendation:
         # Whether to enable article recommendation
@@ -401,7 +424,7 @@ comment:
                     https://image.179.life/deon-emoji/deon_vomiting-blood.png,
                     https://image.179.life/deon-emoji/deon_angry.png,
                 ] # Waline reaction. See https://waline.js.org/reference/client/props.html#reaction
-        # Gitalk comment system. See https://github.com/gitalk/gitalk
+            # Gitalk comment system. See https://github.com/gitalk/gitalk
         gitalk:
             clientID: # GitHub Application Client ID
             clientSecret: # GitHub Application Client Secret
@@ -493,11 +516,10 @@ plugins:
               artist: xzadudu179 # audio artist
               url: https://image.179.life/music/星芽.mp3 # audio url
               cover: https://image.179.life/music/covers/星芽.png # audio cover url
-              lrc: # audio cover lrc
     # Mermaid JS. Requires hexo-filter-mermaid-diagrams (npm i hexo-filter-mermaid-diagrams). See https://mermaid.js.org/
     mermaid:
         enable: true # enable mermaid or not
-        version: "9.3.0" # default v9.3.0
+        version: "11.4.1" # default v11.4.1
 # PLUGINS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # PAGE TEMPLATES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -513,9 +535,9 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
     # Whether to enable CDN
-    enable: true
+    enable: false
     # CDN Provider
-    provider: cdnjs # npmmirror, zstatic, sustech, cdnjs, jsdelivr, unpkg, custom
+    provider: cdnjs # npmmirror, zstatic, cdnjs, jsdelivr, unpkg, custom
     # Custom CDN URL
     # format example: https://cdn.custom.com/hexo-theme-redefine/${version}/source/${path}
     # The ${path} must leads to the root of the "source" folder of the theme
