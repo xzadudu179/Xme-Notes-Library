@@ -1,0 +1,50 @@
+- category: 实用工具
+  icon: fa-tools # 工具分类的图标
+  items:
+    - name: 全国音游地图
+      link: https://map.bemanicn.com/ # 书签链接地址
+      description: BEMANICN
+      image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEVHcEw6Ojo/Pz+MjIwxMTFKSkoxMTEzMzNAQEB/f38/Pz8sLCwjIyM0NDRJSUnY2NcxMTHg4ODc3d4nJydFRUWYmJgcHBzb29vZ2dvMzcy6urrFx8a/v78BAQFsbGzQ0NA5OTmnxqezt+ugoKBdXV3l4I6kpKTT09Pf3ruRlvh5uXXgnKPrWFvduLzu7XDzDRHk46H69gBFSDkrAAAAD3RSTlMALEDvYhWOsT/+hsru0czFJi4vAAABDklEQVQ4jdXS2W7DIBBA0TjeSjZgcGAM3hLbcbokbf//54qXOlWF0qdK7RVIfjgCpPFi8d8K4/g+8Bj7bRDGURDcJwv3Gd7yYWrJ2O3bm8GWOdt+3hzuEme7MBxAJTLuLBPVADa5RsUV/R7qfNM/W3YcFclJL7ph9R0fjxR5J5kFKQVO5P52RkdRWQBI0xFAkVSsSsgs8PB0wOfXF5gAb6RgQhZAAWi/ewBfAGZZIYg2aJoCoGgMpqa9tpcLjqAE5CT3ATHLJecyz5Bi+35FhNKCICDEKF1rpLSsT4inurTPOL+d0RAyzI5JDcBB2Tgftw0UaDlObhX5e2d+tJqmsRbO1vM0o9hZ9MO/83f6ANTOI7tXz1fHAAAAAElFTkSuQmCC
+    - name: Smooth Shadow
+      link: https://shadows.brumm.af/
+      description: Make a smooth css shadow
+      image: https://shadows.brumm.af/favicon.svg
+    - name: 全球光污染地图
+      link: https://www.darkmap.cn/
+      description: 通过波特尔光害等级展示交互式全球光污染地图，帮助你选择全国光污染最少的地方观测星空，为天文摄影爱好者提供SQM在内的光污染指数，找到哪里可以肉眼看到银河。
+      image: https://www.darkmap.cn/favicon.ico
+    - name: 计算器套件 - GeoGebra
+      link: https://www.geogebra.org/calculator
+      description: "来自 GeoGebra 的交互式, 免费在线图形计算器: 绘制函数, 图示数据, 拖动滑动条, 创建三角形, 圆等等!"
+      image: https://www.geogebra.org/apps/icons/suite.ico
+    - name: Static Badge | Shields.io
+      link: https://shields.io/badges
+      description: Generate concise, consistent and legible badges
+      image: https://shields.io/img/favicon.ico
+    - name: OpenGraph
+      link: https://www.opengraph.xyz/
+      description: OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
+      image: https://www.opengraph.xyz/favicon-96x96.png
+    - name: 兽聚汇总 - FurryFusion
+      link: https://www.furryfusion.net/
+      description: 兽聚汇总是一个专属于福瑞文化系列的信息服务系统，目标为小伙伴们打造出专属简洁易用、快捷方便的自助式平台，减少信息壁垒的同时提高大家游玩体验!
+      image: https://www.furryfusion.net/favicon.ico
+    - name: Mermaid
+      link: https://mermaid.js.org/
+      description: Create diagrams and visualizations using text and code.
+      image: https://mermaid.js.org/favicon.ico
+    - name: LLM Visualization
+      link: https://bbycroft.net/llm
+      description: A 3D animated visualization of an LLM with a walkthrough.
+      image: https://bbycroft.net/icon.png
+    - name: OKLCH Color Picker & Converter
+      link: https://oklch.com/
+      description: OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
+      image: https://oklch.com/oklch-BhPJAgVY.svg
+- category: 网站推荐
+  icon: fa-star
+  items:
+    - name: Milthm
+      link: https://milthm.com/
+      description: '"雨之声，梦之形。"'
+      image: https://milthm.com/img/icon.png

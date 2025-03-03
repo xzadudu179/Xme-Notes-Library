@@ -36,7 +36,7 @@ comment: true
   link: https://blog.xzadudu179.top # 链接内容
   description: xzadudu179的小窝 # 描述
   avatar: https://image.179.life/images/avatar.png # 头像
-  thumbnail: https://image.179.life/images/cake.png # 封面图 在置顶链接时才会显示
+  thumbnail: https://image.179.life/images/cake.webp # 封面图 在置顶链接时才会显示
 ```
 
 {% note blue fa-sparkles %}
@@ -49,13 +49,13 @@ comment: true
 
 <!-- tab 暗色主题-->
 
-![暗色效果图](https://image.179.life/images/blog/example.jpg)
+![暗色效果图](https://image.179.life/images/blog/example.webp)
 
 <!-- endtab -->
 
 <!-- tab 浅色主题-->
 
-![浅色效果图](https://image.179.life/images/blog/example-light.jpg)
+![浅色效果图](https://image.179.life/images/blog/example-light.webp)
 
 <!-- endtab -->
 

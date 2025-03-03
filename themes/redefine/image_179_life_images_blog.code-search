@@ -1,0 +1,68 @@
+# Query: image.179.life/images/blog
+# Flags: WordMatch
+# ContextLines: 1
+
+18 个结果 - 3 文件
+
+source\_posts\hexoblog.md:
+    9  - Hexo
+   10: cover: https://image.179.life/images/blog/hexoblog_cover.webp
+   11  categories:
+
+   76  1. 点击上方按钮或[访问官网](https://nodejs.org/zh-cn/download/prebuilt-installer)下载当前（2024年10月4日）最新版本的 Node.js（v22.9.0）
+   77: 2. 双击打开刚刚下载的安装程序，此时你应该看到如下窗口：![Node.js 安装窗口](https://image.179.life/images/blog/nodejs-install1.webp)
+   78  3. 点击 `Next` 按钮继续，接下来会让你接受安装协议，勾选 `I accept the terms in the License Agreement` 并且点击 `Next` 继续。
+
+   89  4. 在 `系统变量` 栏的 `Path` 环境变量下点击 `编辑`，在列表下添加一个新项，值为你的**Node.js 二进制文件路径**。
+   90: ![编辑环境变量 Path](https://image.179.life/images/blog/nodejs-install2.webp)
+   91  {% note yellow fa-circle-exclamation %}
+
+  151  此时访问 https://localhost:4000 应该能够看到如下画面：
+  152: ![Hexo 初始页面](https://image.179.life/images/blog/hexo-hello.webp)
+  153  
+
+  194  登录你的 Github 账号，在个人资料页面的 `Respositories` 里点击 `New` 按钮
+  195: ![新建一个仓库](https://image.179.life/images/blog/githubio1.webp)
+  196  填写 `Repository name` 项为 `你的用户名.github.io`
+  197: ![填写 Repository name 项](https://image.179.life/images/blog/githubio2.webp)
+  198  
+
+  203  此时你应该可以看到如下画面：
+  204: ![空仓库界面](https://image.179.life/images/blog/githubio4.webp)
+  205  选择红框框起来的 `HTTPS`，在箭头指向的位置点击复制按钮，可以将你的 github.io 项目的地址复制到剪切板。
+  206: ![复制仓库地址](https://image.179.life/images/blog/githubio3.webp)
+  207  
+
+  215  点击右上角的头像，选择 `Settings`。
+  216: ![设置](https://image.179.life/images/blog/githubio5.webp)
+  217  在设置下方找到 `Developer settings`。
+  218: ![找到 Developer settings](https://image.179.life/images/blog/githubio6.webp)
+  219  根据图内框选处选择生成新的 token。
+  220: ![找到 Developer settings](https://image.179.life/images/blog/githubio7.webp)
+  221  设置 token 的名字、期限和适用范围。
+  222: ![找到 Developer settings](https://image.179.life/images/blog/githubio8.webp)
+  223  点击复制按钮复制 token 的值 （注意： token 只会显示一次）
+  224: ![复制 token 内容](https://image.179.life/images/blog/githubio9.webp)
+  225  {% note warning fa-circle-exclamation %}
+
+  256  前往你 github.io 仓库里的 `Settings` > `Pages` 设置查看 `Build and deployment` 栏位中的 `Branch` 是否为 `main`，如果是 `None`，就调整为 `main`。
+  257: ![调整分支设置](https://image.179.life/images/blog/githubio10.webp)
+  258  之后再次等待一段时间看看可不可以访问。
+
+  268  前往你 github.io 仓库里的 `Settings` > `Pages` 设置查看 `Custom domain` 栏位，填写自定义域名为你的域名并且勾选 `Enforce HTTPS` 用来强制使用 HTTPS 协议。
+  269: ![修改自定义域名](https://image.179.life/images/blog/githubio11.webp)
+  270  
+
+source\_posts\xmebot.md:
+  8  cover: https://image.179.life/images/cover11.webp
+  9: thumbnail: https://image.179.life/images/blog/xme-thumbnail.webp
+  10  abbrlink: 29749
+
+source\links\index.md:
+  51  
+  52: ![暗色效果图](https://image.179.life/images/blog/example.webp)
+  53  
+
+  57  
+  58: ![浅色效果图](https://image.179.life/images/blog/example-light.webp)
+  59  

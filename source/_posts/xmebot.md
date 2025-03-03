@@ -5,8 +5,8 @@ tags:
   - 工具
   - 想法
   - 小作文
-cover: https://image.179.life/images/cover11.png
-thumbnail: https://image.179.life/images/blog/xme-thumbnail.png
+cover: https://image.179.life/images/cover11.webp
+thumbnail: https://image.179.life/images/blog/xme-thumbnail.webp
 abbrlink: 29749
 date: 2024-10-15 00:38:14
 categories:

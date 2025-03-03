@@ -27,7 +27,7 @@ comment: true
 
 你好哇~我是 xzadudu179，自设名九镹。是一只很喜欢宇宙的兽兽 owo
 
-这里是关于我自己的介绍区块~这个网站或许会是我灵感的堆积地？
+这里是关于我自己的介绍区块~ 这个网站或许会是我灵感的堆积地？以及用于分享记忆的地方...
 
 ---
 
@@ -61,9 +61,9 @@ comment: true
 
 ##### # <font class="primary">Minecraft</font>
 
-##### # <font class="primary">Rain World</font>
+##### # <font class="primary">Milthm</font>
 
-##### # <font class="primary">Celeste</font>
+##### # <font class="primary">...</font>
 
 </div>
 
@@ -119,7 +119,8 @@ comment: true
 
 不过有一件事很神奇，似乎跟我熟的人会发现他们身边到处都是 179 这个数字~
 
-写这些东西的时候已经快要凌晨 4 点了，呜呜，好困，先睡觉，明天再写~
+179 之后也变成了我的 oc 名（九镹）是因为有一群好友当时喜欢叫我 99，之后大家都开始叫我九九，我就在起自己 oc 名时找了一个与 `九` 同音的字来作为我的 oc 名或中文网名~
+
 
 #### <font class="primary">关于我的设子</font>
 
