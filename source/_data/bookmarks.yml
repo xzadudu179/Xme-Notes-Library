@@ -4,7 +4,7 @@
     - name: 全国音游地图
       link: https://map.bemanicn.com/ # 书签链接地址
       description: BEMANICN
-      image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEVHcEw6Ojo/Pz+MjIwxMTFKSkoxMTEzMzNAQEB/f38/Pz8sLCwjIyM0NDRJSUnY2NcxMTHg4ODc3d4nJydFRUWYmJgcHBzb29vZ2dvMzcy6urrFx8a/v78BAQFsbGzQ0NA5OTmnxqezt+ugoKBdXV3l4I6kpKTT09Pf3ruRlvh5uXXgnKPrWFvduLzu7XDzDRHk46H69gBFSDkrAAAAD3RSTlMALEDvYhWOsT/+hsru0czFJi4vAAABDklEQVQ4jdXS2W7DIBBA0TjeSjZgcGAM3hLbcbokbf//54qXOlWF0qdK7RVIfjgCpPFi8d8K4/g+8Bj7bRDGURDcJwv3Gd7yYWrJ2O3bm8GWOdt+3hzuEme7MBxAJTLuLBPVADa5RsUV/R7qfNM/W3YcFclJL7ph9R0fjxR5J5kFKQVO5P52RkdRWQBI0xFAkVSsSsgs8PB0wOfXF5gAb6RgQhZAAWi/ewBfAGZZIYg2aJoCoGgMpqa9tpcLjqAE5CT3ATHLJecyz5Bi+35FhNKCICDEKF1rpLSsT4inurTPOL+d0RAyzI5JDcBB2Tgftw0UaDlObhX5e2d+tJqmsRbO1vM0o9hZ9MO/83f6ANTOI7tXz1fHAAAAAElFTkSuQmCC
+      image: https://map.bemanicn.com/images/logo/logo.png
     - name: Smooth Shadow
       link: https://shadows.brumm.af/
       description: Make a smooth css shadow
