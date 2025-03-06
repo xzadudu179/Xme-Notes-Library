@@ -13,7 +13,7 @@ hexo.extend.filter.register(
 
         return `<img ${attrBegin}
                      lazyload
-                     src="/images/loading.svg"
+                     src="/images/loading_179.webp"
                      data-src="${src}"
                      ${attrEnd}
                 >`

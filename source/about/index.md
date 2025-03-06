@@ -21,6 +21,18 @@ comment: true
         display: none;
     }
 
+    .row-box, .row-box-first {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    @media (max-width: 892px) {
+        .row-box-first {
+            flex-direction: column-reverse;
+        }
+    }
+
 </style>
 
 ### Hi!
@@ -31,15 +43,16 @@ comment: true
 
 ---
 
-<div style="max-width:355px;width:100%;float:right">
-
-![设定-九镹](https://image.179.life/images/179.png)
-
-</div>
-
 ### 关于我：
 
-##### 生日：<font class="primary">2007</font><font class="primary">-04</font><font class="primary">-04</font>
+<div class="row-box-first">
+
+<div>
+
+
+##### 生日：<font class="primary">2007-04-04</font>
+
+<div style="margin-bottom:-13px"></div>
 
 ##### 星座：<font class="primary">白羊座</font>
 
@@ -49,13 +62,41 @@ comment: true
 
 ##### 居住地： <font class="primary">江苏省 扬州市</font>
 
+</div>
+
+<div style="max-width: 355px;width: 100%">
+
+![设定-九镹](https://image.179.life/images/179.png)
+
+</div>
+
+</div>
+
 ---
 
-<div style="max-width:355px;width:100%;float:right;">
+<div class="row-box">
+
+<div style="width:355px">
+
+### 可以做什么？
+
+<div style="margin-bottom:-13px"></div>
+
+##### # <font class="primary">程序 / 网页</font>
+
+##### # <font class="primary">软件 / 游戏</font>
+
+##### # <font class="primary">音乐 / 编曲</font>
+
+##### # <font class="primary">像素画</font>
+
+</div>
+
+<div style="max-width: 355px;width: 100%">
 
 ### 喜欢玩什么？
 
-<div style="margin-bottom:-18px"></div>
+<div style="margin-bottom:-13px"></div>
 
 ##### # <font class="primary">Arcaea</font>
 
@@ -67,15 +108,7 @@ comment: true
 
 </div>
 
-### 可以做什么？
-
-##### # <font class="primary">程序 / 网页</font>
-
-##### # <font class="primary">软件 / 游戏</font>
-
-##### # <font class="primary">音乐 / 编曲</font>
-
-##### # <font class="primary">像素画</font>
+</div>
 
 ---
 

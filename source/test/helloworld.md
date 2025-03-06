@@ -3,7 +3,7 @@ title: 测试用文章
 tags:
   - 测试
 excerpt: '只是一篇测试用文章, 也可以点进来看看owo'
-cover: 'https://image.179.life/images/background-light.jpg'
+cover: 'https://image.179.life/images/background-light.webp'
 abbrlink: 24071
 date: 2024-09-03 00:23:52
 mathjax: true
