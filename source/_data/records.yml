@@ -8,6 +8,10 @@ contenttop: |
 timeline:
   - year: "2025"
     records:
+      - name: "03-06"
+        content: |
+          #### 更改 404 页面
+          把 404 页面换了一个更有意思点的 hhh（虽然以后可能还会继续重构）
       - name: "03-05"
         content: |
           #### 更改懒加载图片

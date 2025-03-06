@@ -65,9 +65,7 @@ comment: true
 </div>
 
 <div style="max-width: 355px;width: 100%">
-
-![设定-九镹](https://image.179.life/images/179.png)
-
+    <img style="margin-top: 0;" src="https://image.179.life/images/179.png" data-src="https://image.179.life/images/179.png" alt="设定-九镹">
 </div>
 
 </div>
