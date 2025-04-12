@@ -45,6 +45,10 @@ comment: true
 
 ### 关于我：
 
+我喜欢有个性的东西，喜欢自己设计与创作艺术~
+
+或许相比于研究技术来讲，观察生活与艺术创作才是最适合我的~！
+
 <div class="row-box-first">
 
 <div>
@@ -86,21 +90,21 @@ comment: true
 
 ##### # <font class="primary">音乐 / 编曲</font>
 
-##### # <font class="primary">像素画</font>
+##### # <font class="primary">像素画 / 摄影</font>
 
 </div>
 
 <div style="max-width: 355px;width: 100%">
 
-### 喜欢玩什么？
+### 喜欢做什么？
 
 <div style="margin-bottom:-13px"></div>
 
-##### # <font class="primary">Arcaea</font>
+##### # <font class="primary">发挥创造力</font>
 
-##### # <font class="primary">Minecraft</font>
+##### # <font class="primary">帮助别人</font>
 
-##### # <font class="primary">Milthm</font>
+##### # <font class="primary">展现自己</font>
 
 ##### # <font class="primary">...</font>
 

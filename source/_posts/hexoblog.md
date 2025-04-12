@@ -6,11 +6,11 @@ date: 2024-09-10 15:22:23
 expires: 2025-10-04 23:59:59
 tags:
 - 教程
-- Hexo
+- 博客
 cover: https://image.179.life/images/blog/hexoblog_cover.webp
 categories:
-- - 软件
-  - 记录
+- - 计算机
+  - 教程
 ---
 
 {% note yellow fa-circle-exclamation %}

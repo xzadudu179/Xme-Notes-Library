@@ -8,6 +8,10 @@ contenttop: |
 timeline:
   - year: "2025"
     records:
+      - name: "04-12"
+        content: |
+          #### 更改文章分类
+          重构了一下文章的分类~ 变得更统一了
       - name: "03-06"
         content: |
           #### 更改 404 页面

@@ -2,15 +2,15 @@
 title: 个人制作的 QQ 机器人 XME-Bot
 type: xmebot
 tags:
-  - 工具
+  - 作品
   - 想法
-  - 小作文
+  - 记录
 cover: https://image.179.life/images/cover11.webp
 thumbnail: https://image.179.life/images/blog/xme-thumbnail.webp
 abbrlink: 29749
 date: 2024-10-15 00:38:14
 categories:
-  - - QQ
+  - - 计算机
     - 服务
 ---
 

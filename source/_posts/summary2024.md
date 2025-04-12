@@ -4,10 +4,11 @@ type: summary2024
 abbrlink: 17277
 date: 2024-12-26 23:13:18
 tags:
-- 小作文
+- 总结
 cover: https://image.179.life/images/nightsky4.jpg
 categories:
-- 总结
+- - 生活
+  - 年度总结
 ---
 
 ## 前言
