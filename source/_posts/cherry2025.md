@@ -3,6 +3,7 @@ title: 日记：3月 樱花大道
 type: cherry2025
 abbrlink: 8630
 date: 2025-04-12 17:43:36
+excerpt: 在今年三月底的时候带着朋友去了一次樱花大道~ 吃饭扫街玩玩 owo
 tags:
     - 日记
 cover: https://image.179.life/images/photos/EXP_IMG_7753.webp
