@@ -47,7 +47,9 @@ comment: true
 
 我喜欢有个性的东西，喜欢自己设计与创作艺术~
 
-或许相比于研究技术来讲，观察生活与艺术创作才是最适合我的~！
+其实我最近两年才开始活跃，或者说，才开始主动学习各种东西以及探索自己（？）
+
+或许相比于研究技术来讲，观察生活与展现自己才是最适合我的~！
 
 <div class="row-box-first">
 
@@ -121,7 +123,7 @@ comment: true
 </div>
 
 <div class="midcontent">
-<figure style="width:80%;"><embed src="https://wakatime.com/share/@xzadudu179/6a499d57-c43f-420b-8a7c-60ba9c175540.svg" style="border-radius:10px"></embed></figure>
+<figure><embed style="height: 500px;" src="https://wakatime.com/share/@xzadudu179/01f9a779-00d4-4ae0-a43f-e60eb6055ee5.svg"></embed></figure>
 </div>
 
 ---

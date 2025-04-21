@@ -24,8 +24,8 @@ categories:
 樱花大道确实很漂亮！明年想来航拍一下...
 
 ![樱花大道](https://image.179.life/images/photos/EXP_IMG_8562.webp)
-![随拍](https://image.179.life/images/photos/yhdd1.webp)
-![随拍](https://image.179.life/images/photos/yhdd2.webp)
+![随拍](https://image.179.life/images/post_images/cherry2025/yhdd1.webp)
+![灯笼](https://image.179.life/images/photos/EXP_IMG_8592.webp)
 
 ### 樱花
 
@@ -47,12 +47,12 @@ categories:
 
 嘿嘿，真的很喜欢吃盐水鹅~
 
-![盐水鹅](https://image.179.life/images/photos/yhdd4.webp)
-
-![汪豆腐](https://image.179.life/images/photos/yhdd5.webp)
+![盐水鹅](https://image.179.life/images/post_images/cherry2025/yhdd4.webp)
 
 ps: 汪豆腐好像是高邮菜
 
-![卤鸡米线](https://image.179.life/images/photos/yhdd3.webp)
+![汪豆腐](https://image.179.life/images/post_images/cherry2025/yhdd5.webp)
 
 云南菜是最后走之前吃的，不过确实很好吃 owo，卤鸡是脆的口感。
+
+![卤鸡米线](https://image.179.life/images/post_images/cherry2025/yhdd3.webp)

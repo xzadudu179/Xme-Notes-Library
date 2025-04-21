@@ -85,7 +85,7 @@ global:
     single_page: true
     # Whether to enable Preloader.
     preloader:
-        enable: false
+        enable: true
         custom_message: XME Notes Library # Custom message. If empty, the site title will be displayed
     # Whether to enable open graph
     open_graph:
@@ -275,6 +275,9 @@ home:
         announcement: <i class="fa-regular fa-thumbtack"></i> 还在搭建中的小窝~ # Announcement text
         show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
         links:
+            MoeTravel:
+                icon: fa-regular fa-comet
+                path: https://travel.moe/go.html?travel=on
             Homepage:
                 icon: fa-regular fa-address-card
                 path: https://www.xzadudu179.top
@@ -333,12 +336,12 @@ articles:
                 "摸鱼",
                 "摸大鱼",
                 "不摸了",
-                "摸鱼II",
-                "摸大鱼II",
-                "不摸了II",
-                "摸鱼III",
-                "摸大鱼III",
-                "不摸了III",
+                "摸鱼 Pro",
+                "摸大鱼 Pro",
+                "不摸了 Pro",
+                "摸鱼 Pro Max",
+                "摸大鱼 Pro Max",
+                "不摸了 Pro Max",
             ]
     # Code block settings
     code_block:
@@ -369,15 +372,15 @@ articles:
     # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
     recommendation:
         # Whether to enable article recommendation
-        enable: false
+        enable: true
         # Article recommendation title
-        title: 推荐文章
+        title: 记忆拾光
         # Max number of articles to display
         limit: 3
         # Max number of articles to display mobile
         mobile_limit: 2
         # Placeholder image
-        placeholder: /images/wallhaven-wqery6-light.webp
+        placeholder: https://image.179.life/images/background-dark-with-header.webp
         # Skip directory
         skip_dirs: []
 # ARTICLE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
