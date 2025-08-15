@@ -1,12 +1,14 @@
 <%- partial('components/header/progress-bar') %>
-<% if (theme.global.preloader === true || theme.global.preloader.enable === true) { %>
+<% if (theme.global.preloader === true || theme.global.preloader.enable ===
+true) { %>
 <%- partial('components/header/preloader') %>
 <% } %>
 <main class="page-container" id="swup">
 
 	<% if (theme.home_banner.enable === true && is_home() && !page.prev) { %>
 	<%- partial('pages/home/home-banner') %>
-	<% } else if (theme.home_banner.enable === true && is_home() && page.prev && theme.home_banner.style === "fixed") { %>
+	<% } else if (theme.home_banner.enable === true && is_home() && page.prev &&
+	theme.home_banner.style === "fixed") { %>
 	<%- partial('pages/home/home-background') %>
 	<% } %>
 
@@ -16,7 +18,8 @@
 		</div>
 
 		<div class="main-content-body transition-fade-up">
-			<% if (is_home() && theme.home.sidebar.enable === true && theme.home.sidebar.position === "left") { %>
+			<% if (is_home() && theme.home.sidebar.enable === true &&
+			theme.home.sidebar.position === "left") { %>
 			<%- partial('pages/home/home-sidebar') %>
 			<% } %>
 
@@ -24,7 +27,8 @@
 				<%- partial(getPagePartialPath(page)) %>
 			</div>
 
-			<% if (is_home() && theme.home.sidebar.enable === true && theme.home.sidebar.position === "right") { %>
+			<% if (is_home() && theme.home.sidebar.enable === true &&
+			theme.home.sidebar.position === "right") { %>
 			<%- partial('pages/home/home-sidebar') %>
 			<% } %>
 		</div>
@@ -49,7 +53,6 @@
 	<% if (theme.navbar.search.enable) { %>
 	<%- partial('utils/local-search') %>
 	<% } %>
-
 </main>
 
 <% if (theme.global.single_page !== false) { %>

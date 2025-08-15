@@ -1,3 +1,4 @@
+
 hexo.on('generateBefore', function () {
 
   if (hexo.locals.get) {

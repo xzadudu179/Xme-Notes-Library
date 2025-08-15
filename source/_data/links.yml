@@ -17,11 +17,11 @@
     - name: 锐龙的小窝
       link: https://blog.sharpice.top/
       description: 锐冰的个人博客
-      avatar: https://blog.sharpice.top/favicon.png
+      avatar: https://sharpice.top/favicon.webp
     - name: 地球驿站
       link: https://blog.mugzx.top
       description: 向上革命，向下实践。
-      avatar: https://www.mugzx.top/avatar.avif
+      avatar: https://weavatar.com/avatar/7e3dc62d2db6965f993ee5e0bc6dea56a8d401fcf5271b3029582ed25232ad0d?d=blank
       thumbnail: https://www.mugzx.top/icon.png
     - name: 龙星划空
       link: https://blog.245179.xyz/
@@ -33,3 +33,12 @@
       description: 再不会遇见第二个时光
       avatar: https://image.glaceon.net/uploads/202205012353016.jpg
       thumbnail: https://image.glaceon.net/2022/06/08/62a05e4097cab.png
+    - name: 大松的个人网站
+      link: http://xuziyao.com
+      description: 大松的小窝
+      avatar: http://xuziyao.com/static/favicon.ico/
+    - name: 无名博客
+      link: https://wuminboke.site
+      description: 一个无聊的人罢了
+      avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+      thumbnail: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg

@@ -8,6 +8,8 @@ export const navigationState = {
   isNavigating: false,
 };
 
+
+
 export default function initUtils() {
   const utils = {
     html_root_dom: document.querySelector("html"),

@@ -49,7 +49,7 @@ export const main = {
     initModeToggle();
     initScrollTopBottom();
     initBookmarkNav();
-    
+
     if (
       theme.home_banner.subtitle.text.length !== 0 &&
       location.pathname === config.root
@@ -82,4 +82,4 @@ try {
   swup.hooks.on("page:view", () => {
     main.refresh();
   });
-} catch (e) {}
+} catch (e) { }
