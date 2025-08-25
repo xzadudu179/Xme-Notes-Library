@@ -29,11 +29,7 @@
     "hexo-theme-landscape": "^1.1.0",
     "hexo-theme-redefine": "^2.8.5",
     "hexo-wordcount": "^6.0.1",
-<<<<<<< HEAD
     "lenis": "^1.3.8",
     "nodejieba": "^3.4.4"
-=======
-    "nodejieba": "^3.5.0"
->>>>>>> 657c6870aad2c9b23f8082a0568727fd178d9c83
   }
 }
