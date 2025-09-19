@@ -15,9 +15,9 @@
       description: 光阴如梦，昨日随风
       avatar: https://image.im0o.top/files/202112021204213.jpg
     - name: 锐龙的小窝
-      link: https://blog.sharpice.top/
+      link: https://sharpice.top/
       description: 锐冰的个人博客
-      avatar: https://sharpice.top/favicon.webp
+      avatar: https://sharpice.top/_nuxt/avatar.CYAnaX69.webp
     - name: 地球驿站
       link: https://blog.mugzx.top
       description: 向上革命，向下实践。
@@ -42,3 +42,15 @@
       description: 一个无聊的人罢了
       avatar: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
       thumbnail: https://bu.dusays.com/2024/07/23/669f7b016ad0b.jpg
+    - name: Liáng4793
+      link: https://liang4793.github.io/
+      description: AKA CarrotSoda 胡萝卜苏打🍹
+      avatar: https://s2.loli.net/2025/07/07/foviyjeDx1MXbwk.png
+    - name: 月空人
+      link: https://www.whbbit.cn
+      description: 偶尔写些博客，发发牢骚
+      avatar: https://bitmc.uno/picgo/126662463_p2.jpg
+    - name: 夏枫的猫窝w
+      link: https://blog.mcxiafeng.top
+      description: 一只会敲代码的笨笨猫咪xmx
+      avatar: https://blog.mcxiafeng.top/images/avatar.png

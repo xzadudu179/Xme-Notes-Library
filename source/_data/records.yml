@@ -8,6 +8,12 @@ contenttop: |
 timeline:
   - year: "2025"
     records:
+      - name: "09-19"
+        content: |
+          #### 修改主题配色
+          把我的主题配色改成了新的个人主页里有的，或许也算一种复用吧 hhh
+          #### 其他变化
+          - 修改了一下这里的样式
       - name: "04-20"
         content: |
           #### 增加 "记忆拾光"
