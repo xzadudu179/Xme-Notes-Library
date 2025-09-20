@@ -36,10 +36,10 @@ comment: true
 ### 示例
 
 ```yaml
-- name: XME Notes Library # 显示名称
-  link: https://blog.xzadudu179.top # 链接内容
-  description: xzadudu179 的小窝 # 描述
-  avatar: https://image.179.life/images/avatar.png # 头像
+- name: XME-Home # 显示名称
+  link: https://www.xzadudu179.top # 链接内容
+  description: xzadudu179 的太空基地 # 描述
+  avatar: https://image.179.life/images/avatar.png # 头像 
   # avatar: https://image.179.life/images/avatar-big.webp # 头像（大图）
   thumbnail: https://image.179.life/images/cake.webp # 封面图 在置顶链接时才会显示
 ```

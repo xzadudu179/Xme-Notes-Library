@@ -1,10 +1,11 @@
 from datetime import datetime
 import sys
+from zoneinfo import ZoneInfo
 
 def main(args):
     with open("./source/_data/essays.yml", 'a', encoding='utf-8') as file:
         content = (''.join(args)).replace('\n', '\n    ')
-        file.write(f"- content: |\n    {content}\n  date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        file.write(f"- content: |\n    {content}\n  date: {datetime.now(tz=ZoneInfo('GMT')).strftime('%Y-%m-%d %H:%M:%S')}\n")
 
 
 if __name__ == "__main__":

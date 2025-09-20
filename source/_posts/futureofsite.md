@@ -6,7 +6,8 @@ date: 2025-09-01 03:57:16
 tags:
 - 随记
 - 想法
-cover: https://image.179.life/images/home-cover-big.webp
+cover: https://image.179.life/images/home-cover-alt.webp
+thumbnail: https://image.179.life/images/background-dark-with-header.webp
 categories:
     - - 计算机
       - 网站

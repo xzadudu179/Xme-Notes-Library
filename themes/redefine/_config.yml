@@ -399,7 +399,8 @@ comment:
             lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
             emoji: [
                     //unpkg.com/@waline/emojis@1.2.0/bilibili,
-                    //unpkg.com/@waline/emojis@1.2.0/qq,
+                    //image.179.life/deon-emoji,
+                    //image.179.life/179-emoji,
                 ] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
             recaptchaV3Key: wasd # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
             turnstileKey: # Turnstile key. See https://waline.js.org/reference/client/props.html#turnstilekey
