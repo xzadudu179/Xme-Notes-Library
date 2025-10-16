@@ -1,5 +1,5 @@
 ---
-title: 关于对日渐增加的 AI 工具的看法
+title: 浅谈自己对于 AI 工具的看法
 type: aiposts
 abbrlink: 7858
 date: 2025-10-15 04:15:15

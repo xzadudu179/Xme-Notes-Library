@@ -13,7 +13,7 @@ if __name__ == "__main__":
         main(sys.argv[1:])
     else:
         lines = []
-        print("请输入说说吧")
+        print("请输入说说吧(/end 结尾)")
         while True:
             line = input(">")
             if line == "/end":
