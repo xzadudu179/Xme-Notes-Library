@@ -10,7 +10,7 @@ cover: https://image.179.life/images/nightsky3.webp
 
 categories:
     - - 计算机
-    - 网站
+      - 网站
 ---
 
 ## 前言
@@ -88,7 +88,7 @@ categories:
 
 ## 看看效果！
 
-{% btn center large::个人主页::https://www.xzadudu179.top/::fa-regular fa-sparkles %}
+{% btn center large::个人主页::https://archive.www.xzadudu179.top/ ::fa-regular fa-sparkles %}
 
 ## owo
 

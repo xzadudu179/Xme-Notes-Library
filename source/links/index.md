@@ -18,6 +18,9 @@ comment: true
 
 -   内容合法
 -   大多数情况可以正常访问
+-   页面不由 AI 设计或不看似由 AI 设计
+
+满足以下所有要求我才会同意申请哦
 
 {% endnote %}
 
@@ -29,13 +32,18 @@ comment: true
 4.   avatar: 头像 URL
 5.   thumbnail: 封面图 URL （可选）
 
+{% note yellow fa-warning %}
+头像图和封面图在确定之后会被放到我的图床，如果需要修改的话，可以发邮件或者消息给我哦！
+{% endnote %}
+
 ### 示例
 
 ```yaml
 - name: XME Notes Library # 显示名称
   link: https://blog.xzadudu179.top # 链接内容
-  description: xzadudu179的小窝 # 描述
+  description: xzadudu179 的小窝 # 描述
   avatar: https://image.179.life/images/avatar.png # 头像
+  # avatar: https://image.179.life/images/avatar-big.webp # 头像（大图）
   thumbnail: https://image.179.life/images/cake.webp # 封面图 在置顶链接时才会显示
 ```
 
@@ -49,13 +57,13 @@ comment: true
 
 <!-- tab 暗色主题-->
 
-![暗色效果图](https://image.179.life/images/blog/example.webp)
+![暗色效果图](https://image.179.life/images/blog/blog-example.avif)
 
 <!-- endtab -->
 
 <!-- tab 浅色主题-->
 
-![浅色效果图](https://image.179.life/images/blog/example-light.webp)
+![浅色效果图](https://image.179.life/images/blog/blog-example-light.avif)
 
 <!-- endtab -->
 
@@ -63,8 +71,12 @@ comment: true
 
 ### 提交
 
-将链接申请（即以上代码块内容）提交邮件至 terra179@163.com 或 me@xzadudu179.top。
+将链接申请（即以上代码块内容）提交邮件至 terra179@163.com。
 
-或者也可以提交到下方评论区
+也可以提交到下方评论区~
+
+{% note blue fa-satellite %}
+在这申请的友链也会放到我的[太空基地](https://www.xzadudu179.top/)哦
+{% endnote %}
 
 {% endfolding %}

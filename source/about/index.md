@@ -1,5 +1,5 @@
 ---
-title: 关于我
+title: ABOUT
 date: 2024-09-03 00:21:17
 type: about
 comment: true
@@ -37,7 +37,7 @@ comment: true
 
 ### Hi!
 
-你好哇~我是 xzadudu179，自设名九镹。是一只很喜欢宇宙的兽兽 owo
+你好哇~ 我是 xzadudu179，自设名九镹，是一个正在四处游荡与探索的小生物！
 
 这里是关于我自己的介绍区块~ 这个网站或许会是我灵感的堆积地？以及用于分享记忆的地方...
 
@@ -92,7 +92,7 @@ comment: true
 
 ##### # <font class="primary">音乐 / 编曲</font>
 
-##### # <font class="primary">像素画 / 摄影</font>
+##### # <font class="primary">设计 / 摄影</font>
 
 </div>
 
@@ -123,14 +123,14 @@ comment: true
 </div>
 
 <div class="midcontent">
-<figure><embed style="height: 500px;" src="https://wakatime.com/share/@xzadudu179/01f9a779-00d4-4ae0-a43f-e60eb6055ee5.svg"></embed></figure>
+<figure><embed style="width: 60vw; min-width: 300px; max-width: 700px;"" src="https://wakatime.com/share/@xzadudu179/01f9a779-00d4-4ae0-a43f-e60eb6055ee5.svg"></embed></figure>
 </div>
 
 ---
 
 ### 现在在做些什么：
-##### - 音游 [Milthm](https://milthm.com/) 谱师 + 曲师
-##### - 学习
+##### - 音游 [Milthm](https://milthm.com/) 谱师 + 曲师 + 产品
+##### - 写网页
 ##### - 制作程序
 ---
 
@@ -173,4 +173,4 @@ comment: true
 
 可以点击下面的按钮看我的个人主页哦~
 
-{% btn center large::看看主页::https://www.xzadudu179.top/::fa-regular fa-sparkles %}
+{% btn center large::太空基地::https://www.xzadudu179.top/::fa-regular fa-satellite %}

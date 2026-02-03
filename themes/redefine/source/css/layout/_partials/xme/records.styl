@@ -8,6 +8,10 @@
   position: relative;
   top: 23px;
 }
+.rec-timeline *
+  font-family 'Orbitron', Geist Variable, -apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, Heiti SC, WenQuanYi Micro Hei, normal;
+  letter-spacing: 0.06em;
+
 .rec-timeline {
   width: 96%;
   height: 90%;
@@ -27,6 +31,11 @@
   top: 30px;
   box-shadow: 0 0 50px 5px transparent;
 }
+
+.rec-circbig + span {
+  font-weight: normal
+}
+
 .rec-uparrow {
   position: relative;
   top: 20.3px;
@@ -38,8 +47,14 @@
   display: block;
   background: var(--second-background-color);
   padding: 20px;
+  padding-top 1px;
+  padding-bottom 10px;
   width: 100%;
   margin-left: 10px;
   box-shadow: var(--redefine-box-shadow-flat);
-  border-radius: 10px;
+  border-radius: 15px;
 }
+
+.rec-content *:not(code)
+  font-family 'Orbitron', Geist Variable, -apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, Heiti SC, WenQuanYi Micro Hei, normal !important;
+  letter-spacing: 0.06em;

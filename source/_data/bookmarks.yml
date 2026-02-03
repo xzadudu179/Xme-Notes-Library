@@ -1,14 +1,6 @@
 - category: 实用工具
   icon: fa-tools # 工具分类的图标
   items:
-    - name: 全国音游地图
-      link: https://map.bemanicn.com/ # 书签链接地址
-      description: BEMANICN
-      image: https://map.bemanicn.com/images/logo/logo.png
-    - name: Smooth Shadow
-      link: https://shadows.brumm.af/
-      description: Make a smooth css shadow
-      image: https://shadows.brumm.af/favicon.svg
     - name: 全球光污染地图
       link: https://www.darkmap.cn/
       description: 通过波特尔光害等级展示交互式全球光污染地图，帮助你选择全国光污染最少的地方观测星空，为天文摄影爱好者提供SQM在内的光污染指数，找到哪里可以肉眼看到银河。
@@ -25,10 +17,6 @@
       link: https://www.opengraph.xyz/
       description: OpenGraph is the easiest way to preview and generate open graph meta tags for any website.
       image: https://www.opengraph.xyz/favicon-96x96.png
-    - name: 兽聚汇总 - FurryFusion
-      link: https://www.furryfusion.net/
-      description: 兽聚汇总是一个专属于福瑞文化系列的信息服务系统，目标为小伙伴们打造出专属简洁易用、快捷方便的自助式平台，减少信息壁垒的同时提高大家游玩体验!
-      image: https://www.furryfusion.net/favicon.ico
     - name: Mermaid
       link: https://mermaid.js.org/
       description: Create diagrams and visualizations using text and code.
@@ -41,6 +29,18 @@
       link: https://oklch.com/
       description: OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
       image: https://oklch.com/oklch-BhPJAgVY.svg
+    - name: Vercel
+      link: https://vercel.com/
+      description: Build and deploy the best web experiences with the AI Cloud.
+      image: https://vercel.com/favicon.ico
+    - name: GSAP
+      link: https://gsap.com/
+      description: A wildly robust JavaScript animation library built for professionals.
+      image: https://gsap.com/apple-touch-icon.png
+    - name: 兽聚汇总 - FurryFusion
+      link: https://www.furryfusion.net/
+      description: 兽聚汇总是一个专属于福瑞文化系列的信息服务系统，目标为小伙伴们打造出专属简洁易用、快捷方便的自助式平台，减少信息壁垒的同时提高大家游玩体验!
+      image: https://www.furryfusion.net/favicon.ico
 - category: 网站推荐
   icon: fa-star
   items:

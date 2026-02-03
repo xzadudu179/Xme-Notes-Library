@@ -2,7 +2,10 @@
 title: 记忆相册
 date: 2024-09-04 00:23:47
 type: masonry
+comment: true
 ---
-
-
-关于我拍的各种照片的记录~
+<style>
+    .wl-reaction {
+        display: none;
+    }
+</style>

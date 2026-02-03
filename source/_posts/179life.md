@@ -3,7 +3,7 @@ title: 共享域名 179.life
 type: 179life
 tags:
   - 想法
-  
+
 cover: 'https://image.179.life/images/Space%20Background3.png'
 categories:
   - - 计算机
@@ -11,6 +11,7 @@ categories:
 abbrlink: 16749
 date: 2024-09-06 00:44:15
 ---
+
 
 ## 想法
 
