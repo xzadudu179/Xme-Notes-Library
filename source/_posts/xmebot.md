@@ -1,11 +1,11 @@
 ---
-title: 个人制作的 QQ 机器人 XME-Bot
+title: 个人制作的 QQ 机器人 XME-Bot（漠月）
 type: xmebot
 tags:
   - 作品
   - 想法
   - 记录
-cover: https://image.179.life/images/deon/1.webp
+cover: https://image.179.life/images/deon/deon-cake-bg1.webp
 thumbnail: https://image.179.life/images/desert1.webp
 abbrlink: 29749
 date: 2024-10-15 00:38:14
