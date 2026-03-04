@@ -70,7 +70,7 @@ comment: true
 
 </div>
 
-<div style="max-width: 355px;width: 100%">
+<div style="max-width: 255px;width: 100%; margin-right: min(30px, 1vw)">
     <img style="margin-top: 0;" src="https://image.179.life/images/179.png" data-src="https://image.179.life/images/179.png" alt="设定-九镹">
 </div>
 
