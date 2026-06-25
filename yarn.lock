@@ -1253,10 +1253,10 @@ jsonparse@^1.3.1:
   resolved "https://registry.npmmirror.com/jsonparse/-/jsonparse-1.3.1.tgz"
   integrity sha512-POQXvpdL69+CluYsillJ7SUhKvytYjW9vG/GKpnf+xP8UWgYEM/RaMzHHofbALDiKbbP1W8UEYmgGl39WkPZsg==
 
-lenis@^1.3.20:
-  version "1.3.20"
-  resolved "https://registry.yarnpkg.com/lenis/-/lenis-1.3.20.tgz#2b543005f847ec66061899968e5514a2b078222c"
-  integrity sha512-sN5+fCQjovD/KZcClwmVLqLIufiHM9w9I/wXPHKUuRLtRa370qdHI2r2WIetSBS/9Sn5yTAGdhxb7W9AtD9x8g==
+lenis@^1.3.24:
+  version "1.3.24"
+  resolved "https://registry.yarnpkg.com/lenis/-/lenis-1.3.24.tgz#eb62c7ee273fdf5e573e0e03390a0595e122cd70"
+  integrity sha512-UdWz0Bx/Z9dDgRdWe+N1dPmPWXGCF4VOTX3mugyX7lRpdjXG6ACfLI/cVmDOEMeQXf+j5Km/uKrvvf1X0k+u6g==
 
 lower-case@^2.0.2:
   version "2.0.2"
