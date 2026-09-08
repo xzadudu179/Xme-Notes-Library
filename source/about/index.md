@@ -123,7 +123,7 @@ comment: true
 </div>
 
 <div class="midcontent">
-<figure><embed style="width: 60vw; min-width: 300px; max-width: 700px;"" src="https://wakatime.com/share/@xzadudu179/01f9a779-00d4-4ae0-a43f-e60eb6055ee5.svg"></embed></figure>
+<figure><embed style="width: 60vw; min-width: 300px; max-width: 700px;"" src="https://wakatime.com/share/@xzadudu179/aa1a7851-80d9-4c85-82fb-edad52ab02cc.svg"></embed></figure>
 </div>
 
 ---
